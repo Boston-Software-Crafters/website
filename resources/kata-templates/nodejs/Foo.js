@@ -3,7 +3,7 @@ module.exports = class Foo {
     return "Foo!";
   }
 
-  fibonacci = n => {
+  fibonacci (n) {
     return n <= 1 ? 1 : this.fibonacci(n - 1) + this.fibonacci(n - 2);
   };
 };
