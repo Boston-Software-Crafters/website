@@ -3,6 +3,9 @@ title: Software Crafters Resources
 sidebar_link: true
 sidebar_sort_order: 600
 ---
+## Meetup Prep and Environment Setup
+- [Readings Prepare for the Meetup](meetup-prep.md)
+- [Setting Up a Project](new-project-setup.md)
 ## Language-agnostic coding challenges
 
 - [Advent of Code](https://adventofcode.com/) is a Christmas-themed problem set that has offered 25 new programming challenges every December since 2015. Each set is a collection of well-made problems that challenge your ability to reason algorithmically. Problems range from moderate to difficult.
