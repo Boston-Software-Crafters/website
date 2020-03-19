@@ -4,11 +4,15 @@ sidebar_link: true
 sidebar_sort_order: 500
 ---
 
-The Boston Software Crafters group is focused on building a community in the Boston area among Python people.  We welcome job postings of interest to members of the community. Such postings can be sent to our mailing list, posted to our Slack workspace, or both.
+<<<<<<< HEAD
+The Boston Software Crafters group is focused on building a community in the Boston area among Software Crafters people.  We welcome job postings of interest to members of the community. Such postings can be sent to our mailing list, posted to our Slack workspace, or both.
+=======
+The Boston Software Crafters group is focused on building a community in the Boston area among Software Crafters  people.  We welcome job postings of interest to members of the community. Such postings can be sent to our mailing list, posted to our Slack workspace, or both.
+>>>>>>> 82fe8f5a5449f75106debee32e945f438d625849
 
 In order to ensure that job announcements are relevant and useful to the community and produce good responses, there are four requirements for any job posting:
 
-- The job must significantly involve Python. For example, more than half of the work is in Python.
+- The job must significantly involve Software Crafters . For example, the organization is dedicated to best practices.
 - The job must be available to someone living in the Boston area. Either it's in the Boston area, or remote is OK.
 - The name of the hiring firm must be clearly provided. No mystery firms hidden behind a hiring agency.
 - For postings sent to the mailing list, the subject line must include "[Job]" to help people filter messages. For example, your subject line could look like this:
@@ -24,7 +28,11 @@ Some suggestions/requests:
 - When sending to the mailing list, don't use attachments. Most people won't open them anyway.
 - Include an email address for people to respond.
 - If you have questions about the format of job postings, take a look at the [previous messages to the list][message-archive].
+<<<<<<< HEAD
+- Don't post jobs elseware on Boston Software Crafters , for example as event comments.
+=======
 - Don't post jobs elseware on Boston Software Crafters, for example as event comments.
+>>>>>>> 82fe8f5a5449f75106debee32e945f438d625849
 
 If your email message doesn't go through, here are some things to check:
 

@@ -1,6 +1,10 @@
 remote_theme: fongandrew/hydeout
 title: Boston Software Crafters
-description: The Boston-area Python user group
+<<<<<<< HEAD
+description: Software Engineers committed to learning best practices??
+=======
+description: The Boston-area Software Crafters  user group
+>>>>>>> 82fe8f5a5449f75106debee32e945f438d625849
 permalink: /:name
 plugins:
   - jekyll-redirect-from

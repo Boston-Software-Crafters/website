@@ -36,7 +36,11 @@ Try to get as much of the incident in written form by the reporter. If you canno
 * Other people involved in or witnesses to the incident and their contact information or description
 * Do not prompt the reporter for suggestions of how to handle the incident, but record their suggested responses if they offer them
 
+<<<<<<< HEAD
+Assess whether an immediate response is necessary. This initial response is very important and will set the tone for Boston Software Crafters . Depending on the severity/details of the incident, please follow these guidelines:
+=======
 Assess whether an immediate response is necessary. This initial response is very important and will set the tone for Boston Software Crafters. Depending on the severity/details of the incident, please follow these guidelines:
+>>>>>>> 82fe8f5a5449f75106debee32e945f438d625849
 
 * If there is any general threat to attendees or the safety of anyone including event staff, consult the volunteer guide for emergency and crisis resources.
 * If everyone is presently physically safe, involve law enforcement or security only at a reporter's request.

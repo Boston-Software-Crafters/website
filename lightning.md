@@ -2,7 +2,7 @@
 title: Lightning Talks
 ---
 
-Lightning talks are 5-10 minutes long, on any topic of interest to other Python people.  It doesn't have to be about something that you wrote, it can be something that you learned, or a technique you think other people will be interested in.
+Lightning talks are 5-10 minutes long, on any topic of interest to other Software Crafters people.  It doesn't have to be about something that you wrote, it can be something that you learned, or a technique you think other people will be interested in.
 
 * You know that thing at work that everyone comes to you for help with? **Talk about that!**
 

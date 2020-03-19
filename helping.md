@@ -78,9 +78,13 @@ One-time; Can be shared
 
 Write a survey to find out what people want and what is on their minds. Collect results, summarize for everyone.
 
-### Conference groupie
+<!-- ### Conference groupie
 
-Monitor conferences happening around the world for likely Boston-area speakers talking about Python-related things. Alert a presentation night curator that those speakers could be good speakers at Boston Software Crafters. Conferences include PyCon, EuroPython, SciPy, DjangoCon, OSCON, data conferences, etc.
+<<<<<<< HEAD
+Monitor conferences happening around the world for likely Boston-area speakers talking about software crafting-related things. Alert a presentation night curator that those speakers could be good speakers at Boston Software Crafters . Conferences include PyCon, EuroSoftware Crafters , SciPy, DjangoCon, OSCON, data conferences, etc. -->
+=======
+Monitor conferences happening around the world for likely Boston-area speakers talking about Software Crafters -related things. Alert a presentation night curator that those speakers could be good speakers at Boston Software Crafters. Conferences include PyCon, EuroSoftware Crafters , SciPy, DjangoCon, OSCON, data conferences, etc.
+>>>>>>> 82fe8f5a5449f75106debee32e945f438d625849
 
 ### T-shirt wizard
 

@@ -3,11 +3,18 @@ title: Sponsoring
 sidebar_link: true
 sidebar_sort_order: 520
 ---
+??
+Boston Software Crafters is always looking for sponsors for its events. We'd love to have you! Sponsoring brings a personal touch to your recruiting efforts. One recent sponsor commented:
 
+<<<<<<< HEAD
+> Our Boston Software Crafters posting got a better response than the company's 'official' postings in IEEE journals, Monster.com, etc...
+
+=======
 Boston Software Crafters is always looking for sponsors for its events. We'd love to have you! Sponsoring brings a personal touch to your recruiting efforts. One recent sponsor commented:
 
 > Our Boston Software Crafters posting got a better response than the company's 'official' postings in IEEE journals, Monster.com, etc...
 
+>>>>>>> 82fe8f5a5449f75106debee32e945f438d625849
 Boston Software Crafters holds two kinds of events each month: presentation nights and project nights. Sponsoring pizza for either event is **$750**.
 
 On **presentation nights**, we have 100-120 people in attendance. You can also sponsor drinks at a bar afterward, which is about $300, depending on how many people show up.
@@ -16,7 +23,11 @@ On **presentation nights**, we have 100-120 people in attendance. You can also s
 
 As a sponsor, you will get a chance to **speak to the crowd** at the event, and pitch your company (or whatever it is you have to pitch). Sponsors generally speak for a minute or two. Up to five minutes isn't unheard of, but starts to feel long. People lose interest if the pitch is too lengthy.
 
-When sponsoring **pizza**, a Boston Software Crafters organizer will purchase the pizza.  You can pay by making a donation to the Python Software Foundation at <http://donate.bostonsoftwarecrafters.com>??. When sponsoring **drinks** at the bar, you bring a credit card and work it out with the bartender there.
+<<<<<<< HEAD
+When sponsoring **pizza**, a Boston Software Crafters organizer will purchase the pizza.  You can pay by making a donation to the Software Crafters Software Foundation at <http://donate.bostonsoftwarecrafters.com>??. When sponsoring **drinks** at the bar, you bring a credit card and work it out with the bartender there.
+=======
+When sponsoring **pizza**, a Boston Software Crafters organizer will purchase the pizza.  You can pay by making a donation to the Software Crafters  Software Foundation at <http://donate.bostonsoftwarecrafters.com>??. When sponsoring **drinks** at the bar, you bring a credit card and work it out with the bartender there.
+>>>>>>> 82fe8f5a5449f75106debee32e945f438d625849
 
 The night of the event, we can provide table space for you to put out materials, or hand out swag if you want, but that is not expected or required.
 

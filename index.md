@@ -2,7 +2,11 @@
 title: Home
 ---
 
-Boston Software Crafters is a large and vibrant Python user group in the Boston area.  We run [two events](events.md) most months. Anyone interested in any aspect of the Python world is welcome!
+<<<<<<< HEAD
+Boston Software Crafters is a large and vibrant Software Crafters user group in the Boston area.  We run [two events](events.md) most months. Anyone interested in any aspect of the Software Crafters world is welcome!
+=======
+Boston Software Crafters is a large and vibrant Software Crafters  user group in the Boston area.  We run [two events](events.md) most months. Anyone interested in any aspect of the Software Crafters  world is welcome!
+>>>>>>> 82fe8f5a5449f75106debee32e945f438d625849
 
 We use [Slack](slack.md) for online discussions.
 

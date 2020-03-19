@@ -6,7 +6,11 @@ sidebar_sort_order: 1
 
 Boston Software Crafters events are intended for networking and collaboration in the developer community.
 
-We value the participation of each member of the Python community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees at all Boston Software Crafters events, whether officially sponsored by Boston Software Crafters or not.
+<<<<<<< HEAD
+We value the participation of each member of the Software Crafters community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees at all Boston Software Crafters events, whether officially sponsored by Boston Software Crafters or not.
+=======
+We value the participation of each member of the Software Crafters  community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees at all Boston Software Crafters events, whether officially sponsored by Boston Software Crafters or not.
+>>>>>>> 82fe8f5a5449f75106debee32e945f438d625849
 
 To make clear what is expected, all staff, attendees, speakers, exhibitors, organizers, and volunteers at any Boston Software Crafters event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 
@@ -54,7 +58,11 @@ Attendees are further expected to comply with all state and local laws on this m
 
 All Boston Software Crafters attendees are subject to the Code of Conduct. This includes staff and volunteers, as well as attendees of events, presentations, project nights, after-event gatherings, receptions, and all sponsored or unofficial events.
 
+<<<<<<< HEAD
+Communication outside of events are also subject to the Code of Conduct, including email, online postings, chat messages, and any other communication under the auspices of Boston Software Crafters .
+=======
 Communication outside of events are also subject to the Code of Conduct, including email, online postings, chat messages, and any other communication under the auspices of Boston Software Crafters.
+>>>>>>> 82fe8f5a5449f75106debee32e945f438d625849
 
 ## Contact Information
 

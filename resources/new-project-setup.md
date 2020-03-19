@@ -11,5 +11,5 @@ Here are instructions for setting up testing environments using Visual Studio Co
 If you want to use an IDE, the above instructions for Visual Studio Code is a good start.  The following JetBrains products are recommended:
 
 - Java: IntelliJ (Community Edition is free)
-- Python: PyCharm (Community Edition is free)
+- Software Crafters : PyCharm (Community Edition is free)
 - WebStorm (subscription required)
