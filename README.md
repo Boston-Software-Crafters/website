@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # About Boston Software Crafters
 
 Content and configuration for <https://about.bostonsoftwarecrafters.com>, built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).
