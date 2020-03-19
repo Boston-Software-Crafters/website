@@ -36,11 +36,7 @@ Try to get as much of the incident in written form by the reporter. If you canno
 * Other people involved in or witnesses to the incident and their contact information or description
 * Do not prompt the reporter for suggestions of how to handle the incident, but record their suggested responses if they offer them
 
-<<<<<<< HEAD
-Assess whether an immediate response is necessary. This initial response is very important and will set the tone for Boston Software Crafters . Depending on the severity/details of the incident, please follow these guidelines:
-=======
 Assess whether an immediate response is necessary. This initial response is very important and will set the tone for Boston Software Crafters. Depending on the severity/details of the incident, please follow these guidelines:
->>>>>>> 82fe8f5a5449f75106debee32e945f438d625849
 
 * If there is any general threat to attendees or the safety of anyone including event staff, consult the volunteer guide for emergency and crisis resources.
 * If everyone is presently physically safe, involve law enforcement or security only at a reporter's request.
@@ -98,7 +94,7 @@ What follows are examples of possible responses to an incident report. This list
 * Removing a person from membership of relevant organizations
 * Publishing an account of the incident and (optionally) calling for the resignation of a person from their responsibilities
 
-If a reported person wants to appeal the decision, notify them that they may contact the Boston Software Crafters leaders <leaders@bostonsoftwarecrafters.com>??. Keep in mind that it is not a good idea to encourage an apology from the reported person.
+Keep in mind that it is not a good idea to encourage an apology from the reported person.
 
 It is very important how we deal with the incident publicly. Our policy is to make sure that everyone aware of the initial incident is also made aware that it is not according to policy and that official action has been taken, while still respecting the privacy of individual attendees. When speaking to individuals (those who are aware of the incident, but were not involved with the incident) about the incident it is a good idea to keep the details out.
 

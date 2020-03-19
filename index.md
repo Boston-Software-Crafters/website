@@ -2,24 +2,10 @@
 title: Home
 ---
 
-<<<<<<< HEAD
 Boston Software Crafters is a large and vibrant Software Crafters user group in the Boston area.  We run [two events](events.md) most months. Anyone interested in any aspect of the Software Crafters world is welcome!
-=======
-Boston Software Crafters is a large and vibrant Software Crafters  user group in the Boston area.  We run [two events](events.md) most months. Anyone interested in any aspect of the Software Crafters  world is welcome!
->>>>>>> 82fe8f5a5449f75106debee32e945f438d625849
 
 We use [Slack](slack.md) for online discussions.
 
 All of our interactions are covered by our [code of conduct](code-of-conduct.md).
 
-If you are an employer, you can [announce jobs](jobs.md) and even [sponsor](sponsorship.md) or [host](hosting.md) events.
-
-Other ways to connect with Boston Software Crafters people:
-
-[![Twitter](assets/images/Twitter_Social_Icon_Rounded_Square_Color.png){: .left-icon}Twitter](https://twitter.com/bostonsoftwarecrafters???)
-
-[![LinkedIn](assets/images/LI-In-Bug.png){: .left-icon}LinkedIn group](https://www.linkedin.com/groups/12301683/)
-
-[![Slack](assets/images/Slack_Mark_Web.png){: .left-icon}Slack](slack)
-
-[![Email](assets/images/email.png){: .left-icon}Email the leaders](contact)
+If you are an employer, you can [announce jobs](jobs.md).

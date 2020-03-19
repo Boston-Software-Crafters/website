@@ -1,7 +1,5 @@
 ---
 title: Hosting
-sidebar_link: true
-sidebar_sort_order: 540
 ---
 
 Boston Software Crafters is always looking for new venues.  Hosting Boston Software Crafters can be a good way to introduce people to your company, and is a great way to contribute back to the community.

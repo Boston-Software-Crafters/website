@@ -1,10 +1,7 @@
 <<<<<<< HEAD
-# About Boston Software Crafters 
-=======
 # About Boston Software Crafters
->>>>>>> 82fe8f5a5449f75106debee32e945f438d625849
 
-Content and configuration for <https://about.bostonsoftwarecrafters.com>??, built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).
+Content and configuration for <https://about.bostonsoftwarecrafters.com>, built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).
 
 ## Running the site locally
 

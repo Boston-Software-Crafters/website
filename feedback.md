@@ -12,6 +12,6 @@ Please let us know how the event was for you. Did you feel welcome? Did you find
 
 We really want to hear from you. Be **blunt** if you need to! Honest feedback will help us improve Boston Software Crafters for everyone.
 
-Send us an email: [leaders@bostonsoftwarecrafters.com??](mailto:leaders@bostonsoftwarecrafters.com?subject=Feedback), or to any one of us on the [Contact Us](contact.md) page.
+Send an email to any one of us or all of us on [Contact Us](contact.md) page.
 
 Thanks, we really appreciate it!

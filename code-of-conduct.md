@@ -6,11 +6,7 @@ sidebar_sort_order: 1
 
 Boston Software Crafters events are intended for networking and collaboration in the developer community.
 
-<<<<<<< HEAD
 We value the participation of each member of the Software Crafters community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees at all Boston Software Crafters events, whether officially sponsored by Boston Software Crafters or not.
-=======
-We value the participation of each member of the Software Crafters  community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees at all Boston Software Crafters events, whether officially sponsored by Boston Software Crafters or not.
->>>>>>> 82fe8f5a5449f75106debee32e945f438d625849
 
 To make clear what is expected, all staff, attendees, speakers, exhibitors, organizers, and volunteers at any Boston Software Crafters event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 
@@ -58,23 +54,15 @@ Attendees are further expected to comply with all state and local laws on this m
 
 All Boston Software Crafters attendees are subject to the Code of Conduct. This includes staff and volunteers, as well as attendees of events, presentations, project nights, after-event gatherings, receptions, and all sponsored or unofficial events.
 
-<<<<<<< HEAD
-Communication outside of events are also subject to the Code of Conduct, including email, online postings, chat messages, and any other communication under the auspices of Boston Software Crafters .
-=======
 Communication outside of events are also subject to the Code of Conduct, including email, online postings, chat messages, and any other communication under the auspices of Boston Software Crafters.
->>>>>>> 82fe8f5a5449f75106debee32e945f438d625849
 
 ## Contact Information
 
-If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the Boston Software Crafters staff immediately.
+If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the Boston Software Crafters leadership team immediately.
 
-**Incident reporting**: send email to <conduct@bostonsoftwarecrafters.com>??
+**Incident reporting**: send email to: Ethan Strominger <ethan@codecraftcoach.com>, David Sturgis <david-sturgis@pluralsight.com>
 
-In case of a conflict of interest, you can individually contact one of the organizers:
-
-  * Ned Batchelder, <ned@bostonsoftwarecrafters.com>??
-  * Brian Rutledge, <brian@bostonsoftwarecrafters.com>??
-  * Michelle Fullwood, <michelle@bostonsoftwarecrafters.com>??
+In case of a conflict of interest, you can individually contact one of the organizers.
 
 Boston Software Crafters staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of any event. We value your attendance.
 
@@ -85,7 +73,7 @@ Boston Software Crafters staff will be happy to help participants contact venue 
 
 ## License
 
-??This Code of Conduct was forked from the [](), which details the sources of its language.
+This Code of Conduct was based on the Boston Python Code of Conduct.  Click link for [website](https://about.bostonpython.com/code-of-conduct] or [github](https://github.com/BostonPython/about/blob/master/code-of-conduct.md)), which details the sources of its language, checked into gitHub.  The Boston Python Code of Conduct was copied, checked into gitHub, then modified and checked back into Boston Software Crafters github.
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
 

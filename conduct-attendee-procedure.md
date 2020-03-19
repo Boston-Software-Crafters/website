@@ -2,19 +2,13 @@
 title: Attendee Procedure For Reporting Code of Conduct Incidents
 ---
 
-**If you believe someone is in physical danger**, consult with a volunteer or staff member for the appropriate crisis number, non-emergency number, or police number.
+**If you believe someone is in physical danger**, consult with a volunteer or someone on th leadership team for the appropriate crisis number, non-emergency number, or police number.
 
 If you believe someone has violated the [Code of Conduct](code-of-conduct.md), we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by this Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action; they help create a safer space.
 
-During an event you can make a report:
+During an event you can make a report directly to the organizers either verbally (if in person), through the online collaboration tool being used for the event, or email.  See [Code of Conduct](code-of-conduct.md) for email of the organizers.
 
-  - To one of the event organizers
-  - Email **<conduct@bostonsoftwarecrafters.com???**
-
-In the event of a conflict of interest, you may directly contact any of the incident responders:
-
-  * Ethan Strominger, <ethan@bostonsoftwarecrafters.com>??
-  * David Sturgis, <david@bostonsoftwarecrafters.com>??
+In case of a conflict of interest, you can contact just one of the organizers.
 
 ## Report Data
 
