@@ -4,7 +4,7 @@ sidebar_link: true
 sidebar_sort_order: 300
 ---
 
-Keeping Boston Python running requires lots of small jobs. If you take on one of these, it's a big help to the organization. You can sign up for one of these and then move to doing something else later on. Or you can suggest a different job that you're interested in doing.
+Keeping Boston Software Crafters running requires lots of small jobs. If you take on one of these, it's a big help to the organization. You can sign up for one of these and then move to doing something else later on. Or you can suggest a different job that you're interested in doing.
 
 If you want to talk about any of this, find us in [Slack](slack.md) in the [#organizing channel](https://app.slack.com/client/T8Y3V5G9E/CJP5P5TNX).
 
@@ -30,9 +30,9 @@ Importance: is it critical that it get done, or is it more casual?
 
 - [Other projects](#other-projects)
 
-## Behind the scenes
+## Behind the scenes???
 
-### Mailing list moderator - Ned
+### Mailing list moderator
 
 Get notified when someone emails the mailing list. Read the messages, decide if they are appropriate or not. If not appropriate, but close, write to the sender telling them what they need to do to get approved. Approve or deny the messages.
 
@@ -40,7 +40,7 @@ Get notified when someone emails the mailing list. Read the messages, decide if 
 
 Be aware of discussions happening on Slack and Meetup. Answer questions, suggest proper usage, report inappropriate usage. Make people feel like someone official is paying attention.
 
-### New-member greeter - Michelle
+### New-member greeter
 
 When new members join Meetup or Slack, send them a personal message welcoming them. People answer questions when they join; it would be great to include details from those answers, and an encouragement to share their expertise (if they have claimed some).
 
@@ -48,7 +48,7 @@ When new members join Meetup or Slack, send them a personal message welcoming th
 
 ### Twitter tweeter - Srini
 
-Run the @bostonpython Twitter account. Follow interesting people, tweet things. Announce events and sponsors.
+Create and run the @bostonsoftwrecrafters Twitter account. Follow interesting people, tweet things. Announce events and sponsors.
 
 10min/day; Can be shared
 
@@ -56,15 +56,9 @@ Run the @bostonpython Twitter account. Follow interesting people, tweet things. 
 
 Open issues and pull requests for content suggestions and edits to this website.
 
-### Website maintainer - Ned, Brian
+### Website maintainer - Ethan
 
 Improve the content of this website and manage contributions.
-
-### Jobs detective
-
-Search job postings for Python jobs in the Boston-area. Collect names and email addresses of people we can contact about sponsoring.
-
-1 hour/week; Can be shared
 
 ### Event list gatekeeper
 
@@ -72,11 +66,11 @@ Keep track of other events people want us to announce to the group. Send a month
 
 ### Public relations bullhorn
 
-Find places to publicize Boston Python events. Publicize them.
+Find places to publicize Boston Software Crafters events. Publicize them.
 
 ### Onboarding polisher
 
-Play-test the experience for new members. Make sure we properly explain how Boston Python works so that they can get as much as possible from joining.
+Play-test the experience for new members. Make sure we properly explain how Boston Software Crafters works so that they can get as much as possible from joining.
 
 One-time; Can be shared
 
@@ -86,11 +80,11 @@ Write a survey to find out what people want and what is on their minds. Collect 
 
 ### Conference groupie
 
-Monitor conferences happening around the world for likely Boston-area speakers talking about Python-related things. Alert a presentation night curator that those speakers could be good speakers at Boston Python. Conferences include PyCon, EuroPython, SciPy, DjangoCon, OSCON, data conferences, etc.
+Monitor conferences happening around the world for likely Boston-area speakers talking about Python-related things. Alert a presentation night curator that those speakers could be good speakers at Boston Software Crafters. Conferences include PyCon, EuroPython, SciPy, DjangoCon, OSCON, data conferences, etc.
 
 ### T-shirt wizard
 
-It would be amazing to have Boston Python t-shirts to sell. Find someone to design the shirt (or design it yourself). Work with enough leaders of the group to get approval of the design. Find a vendor with the right price/quality balance. Decide on the right quantity and mix of sizes to order. Deal with the vendor to get the shirts made.
+It would be amazing to have Boston Software Crafters t-shirts to sell. Find someone to design the shirt (or design it yourself). Work with enough leaders of the group to get approval of the design. Find a vendor with the right price/quality balance. Decide on the right quantity and mix of sizes to order. Deal with the vendor to get the shirts made.
 
 ## Before events
 
@@ -112,7 +106,7 @@ Email their events person to reserve space for us after presentation nights. Che
 
 ### Pizza quartermaster - Ned
 
-On the day of an event, note how many people have RSVP'd yes, use the Beauty's Pizza web site to order enough pizza in an interesting mix, pay with the Boston Python debit card.
+On the day of an event, note how many people have RSVP'd yes, use the Beauty's Pizza web site to order enough pizza in an interesting mix, pay with the Boston Software Crafters debit card.
 
 ### Puzzle crafter
 
@@ -130,7 +124,7 @@ A project night has tables organized by topic (beginners, web, data, hardware, e
 
 ### Video director
 
-Record the presentation nights and put the videos on YouTube. Boston Python can buy the equipment. We'd like to have somebody with video expertise to help select equipment and establish the process.
+Record the presentation nights and put the videos on YouTube. Boston Software Crafters can buy the equipment. We'd like to have somebody with video expertise to help select equipment and establish the process.
 
 ### Name tag master - Ned
 
@@ -160,7 +154,7 @@ On nights when we give away things, it helps to have someone at the front of the
 
 ### Workshop monarch
 
-Resuscitate the Boston Python workshop. Workshops have been held on Friday nights and all-day Saturday for larger teaching tasks.
+Resuscitate the Boston Software Crafters workshop. Workshops have been held on Friday nights and all-day Saturday for larger teaching tasks.
 
 ### Mentoring monarch
 

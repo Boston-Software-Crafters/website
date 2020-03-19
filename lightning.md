@@ -29,7 +29,7 @@ Things people say when they think they can't do a lightning talk:
 
 * *"It's scary talking in front of people"*
     - Yes, but you will feel really accomplished when you've done it.
-    - Boston Python is super-friendly and is always welcoming of new speakers.
+    - Boston Software Crafters is super-friendly and is always welcoming of new speakers.
     - Everyone is nervous speaking in public, even people you think wouldn't be nervous.
 
 * *"I have an idea but it's no good"*

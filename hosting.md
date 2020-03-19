@@ -4,7 +4,7 @@ sidebar_link: true
 sidebar_sort_order: 540
 ---
 
-Boston Python is always looking for new venues.  Hosting Boston Python can be a good way to introduce people to your company, and is a great way to contribute back to the community.
+Boston Software Crafters is always looking for new venues.  Hosting Boston Software Crafters can be a good way to introduce people to your company, and is a great way to contribute back to the community.
 
 Here are some things to consider:
 
@@ -25,4 +25,4 @@ Here are some things to consider:
 
 We can work with most situations, but it's good to know the details beforehand.
 
-If you'd like to host a Boston Python event, send an email to <leaders@bostonpython.com>.  Thanks!
+If you'd like to host a Boston Software Crafters event, send an email to <leaders@bostonsoftwarecrafters.com>??.  Thanks!

@@ -4,7 +4,7 @@ sidebar_link: true
 sidebar_sort_order: 200
 ---
 
-Boston Python has a Slack workspace for online discussions.
+Boston Software Crafters has a Slack workspace for online discussions.
 
 [Sign up to join us!](https://slack.bostonpython.com) As always, we expect all members to abide by our [code of conduct](code-of-conduct.md).
 
@@ -14,7 +14,7 @@ Once you're in, there are a number of channels, depending on what you are lookin
 - **#events**: Announcements/discussion of events that might be interesting to the group.
 - **#jobs**: For job postings. They must meet our [requirements](jobs.md).
 - **#for-hire**: Where you can announce your availability for work.
-- **#organizing**: Discussion about how Boston Python works, and making it work better.
+- **#organizing**: Discussion about how Boston Software Crafters works, and making it work better.
 - **#beginners**: For folks learning Python, or people who want to help them learn Python.
 - Specific areas of interest, such as **#web**, **#data**, **#science**, etc.
 

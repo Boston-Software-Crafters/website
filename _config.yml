@@ -1,5 +1,5 @@
 remote_theme: fongandrew/hydeout
-title: Boston Python
+title: Boston Software Crafters
 description: The Boston-area Python user group
 permalink: /:name
 plugins:

@@ -9,13 +9,12 @@ If you believe someone has violated the [Code of Conduct](code-of-conduct.md), w
 During an event you can make a report:
 
   - To one of the event organizers
-  - Email **<conduct@bostonpython.com>**
+  - Email **<conduct@bostonsoftwarecrafters.com???**
 
 In the event of a conflict of interest, you may directly contact any of the incident responders:
 
-  * Ned Batchelder, <ned@bostonpython.com>
-  * Brian Rutledge, <brian@bostonpython.com>
-  * Michelle Fullwood, <michelle@bostonpython.com>
+  * Ethan Strominger, <ethan@bostonsoftwarecrafters.com>??
+  * David Sturgis, <david@bostonsoftwarecrafters.com>??
 
 ## Report Data
 
