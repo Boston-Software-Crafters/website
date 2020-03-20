@@ -19,6 +19,7 @@ $large-font-size: 1.15rem !default;
 #sidebar {
     .site-title {
         font-family: $root-font-family;
+        font-size: 2em;
         font-weight: bold;
     }
 }
@@ -68,9 +69,9 @@ footer.content {
     padding-top: 3rem;
 }
 
-.content * {
-    max-width: 32em;
-}
+// .content * {
+//     max-width: 32em;
+// }
 
 nav#sidebar-nav-links .active {
     text-decoration: underline;
