@@ -1,5 +1,5 @@
 ---
-title: Helping Out
+title: Helping This Meetup
 sidebar_link: true
 sidebar_sort_order: 300
 ---

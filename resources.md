@@ -13,3 +13,44 @@ sidebar_sort_order: 600
 - [Rosalind](http://rosalind.info/problems/locations/) is a bit of a hodge-podge, offering a well-curated collection of problems introducing concepts in bioinformatics, a small set of introductory Software Crafters problems, and a collection of classical algorithms to implement.
 
 - [Project Euler](https://projecteuler.net/) is great fun for the mathematically-minded. Over 650 problems which ramp up rather quickly in difficulty. If you've got a strong mathematical background you'll have a real advantage here. If not, you might well acquire one.
+
+## Katas
+[Gabe Montalvo's Curated List of Coding Katas](https://github.com/gamontal/awesome-katas)
+
+## Communities
+#### Coding Meetups: come together to code</h4>
+
+- [Boston Software Crafters](https://www.meetup.com/Boston-Software-Crafters)
+- [Boston React](https://www.meetup.com/ReactJS-Boston/events/) - Come to project nights to work on a React project.  Group also hosts presentations.  Meets monthly.
+- [Code for Boston](https://www.meetup.com/code-for-boston)Code for Boston - Volunteer on a real life project for a non-profit.  For coders and non-coders.
+- [Boston Python](https://www.meetup.com/bostonpython): Come to project nights to get help on a project, help others, or to discuss Python related topics.  Group also hosts presentations.  Meets monthly.
+- [Technical Skills Share Group](https://www.meetup.com/Technical-Skills-Share-Group/)  For technical professionals in transition.  Help each other by working on projects, sharing the skills they have, and learning new ones.  For coders and non-coders.  Main group meets Wed during the day in Acton.  Subgroups meet every day.  Video conference option available.
+- [Boston Tech Interview Meetup](https://www.meetup.com/Boston-Tech-Interview-Meetup/)Practice technical interviewing, polish up algorithms knowledge and network with other software engineers looking to move forward in their careers.  Meets monthly.
+
+#### Software Crafters (Worldwide, not Boston)
+- [Slack](https://softwarecrafters.slack.com/)Software Crafters Slack &#8211; Boston</a> &#8211; Boston-specific Channel on Software Crafters Slack.  See &#8220;Software Crafters&#8221; slack below for information on how to join Software Crafters slack.
+- [Other Communities](https://softwarecrafters.org/)Software Craft Communities Worldwide</a>
+Software Crafters Slack &#8211; Join (http://slack.softwarecrafters.org/)here</a>.  Once you have joined, (https://softwarecrafters.slack.com)log in through the web</a> or through the Slack app.  World Wide Slack Forum
+
+## Books
+#### Coding Dojos
+- [The Coding Dojo Handbook, by Emily Bache](https://leanpub.com/codingdojohandbook)
+
+#### Test Driven Development
+- [Mocks, Fakes, and Stubs<, by Emily Bache](https://leanpub.com/mocks-fakes-stubs)
+- “Test-Driven Development by Example”, Kent Beck
+- “Unit Test Patterns”, Gerard Meszaros
+- “Growing Object Oriented Software, Guided by Tests”, Steve Freeman and Nat Price
+
+#### Coding Techniques
+- “Clean Code”, Robert C. Martin
+- “Design Patterns: Elements of Reusable Object-Oriented Software”, Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides (Gang of Four)
+- “Java Design Patterns”, Rohit Joshi (covers equivalent patterns as the G of 4 book, but in Java)
+- “Functional Programming for the Object-Oriented Programmer”, Brian Marick
+
+#### Refactoring / Legacy Code
+- “Working Effectively with Legacy Code”, Michael Feathers
+- “Refactoring: Improving the design of existing code”, Martin Fowler
+- “Refactoring to Patterns”, Joshua Kerievsky
+- “Design Patterns, Java Workbook”, Steven John Metsker
+- “Refactoring Workbook”, William C. Wake

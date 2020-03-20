@@ -19,6 +19,7 @@ Compiled lists of on line events:
   - [Free Online Conferences (started by Women in Tech Slack Group)]https://docs.google.com/spreadsheets/d/1IKXAcDoYnWNpuFaDYkn_aplDZ5fRI0bJNWah0rGFO5E/htmlview
 
 Other events:
-- [Mob Programming Conference](https://mobprogrammingconference.com), May 30-31, currently scheduled for Boston, this may change
-- [Agile Games Conference](https://agilegamesnewengland.com), June 1-3, currently scheduled for Boston, this may change
+- [Mob Programming Conference](https://mobprogrammingconference.com), May 30-31, currently scheduled for Boston
+- [Lets Pair Online - Hackathon related to COVID-19](https://letspair.online), March 30-April 5
+- [Agile Games Conference](https://agilegamesnewengland.com), June 1-3, currently scheduled for Boston
 - [The Legacy of SoCraTes](https://www.crowdcast.io/e/the-legacy-of-socrates), April 1, 12:00-17:00 UTC, online
