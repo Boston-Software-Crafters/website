@@ -15,8 +15,8 @@ COVID-19 Related Events:
 - [Code for Boston](https://www.codeforboston.com)
 
 Compiled lists of on line events:
-- [Homeferences] https://github.com/homeferences/list
-  - [Free Online Conferences (started by Women in Tech Slack Group)]https://docs.google.com/spreadsheets/d/1IKXAcDoYnWNpuFaDYkn_aplDZ5fRI0bJNWah0rGFO5E/htmlview
+- [Homeferences](https://github.com/homeferences/list)
+- [Free Online Conferences](https://docs.google.com/spreadsheets/d/1IKXAcDoYnWNpuFaDYkn_aplDZ5fRI0bJNWah0rGFO5E/htmlview) (started by Women in Tech Slack Group)
 
 Other events:
 - [Mob Programming Conference](https://mobprogrammingconference.com), May 30-31, currently scheduled for Boston

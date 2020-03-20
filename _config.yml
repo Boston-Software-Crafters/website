@@ -1,6 +1,5 @@
 remote_theme: fongandrew/hydeout
 title: Boston Software Crafters
-description: Software Engineers committed to the craft of software engineering.
 permalink: /:name
 plugins:
   - jekyll-redirect-from
