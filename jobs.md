@@ -1,7 +1,7 @@
 ---
 title: Posting Jobs
 sidebar_link: true
-sidebar_sort_order: 500
+sidebar_sort_order: 700
 ---
 The Boston Software Crafters group is focused on building a community in the Boston area among Software Crafters people.  We welcome job postings of interest to members of the community. Such postings can be sent to our mailing list, posted to our Slack workspace, or both.
 

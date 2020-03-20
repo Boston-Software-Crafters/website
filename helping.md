@@ -1,7 +1,7 @@
 ---
 title: Helping This Meetup
 sidebar_link: true
-sidebar_sort_order: 300
+sidebar_sort_order: 400
 ---
 
 Keeping Boston Software Crafters running requires lots of small jobs. If you take on one of these, it's a big help to the organization. You can sign up for one of these and then move to doing something else later on. Or you can suggest a different job that you're interested in doing.
@@ -10,7 +10,7 @@ If you want to talk about any of this, find us in [Slack](slack.md) or [contact 
 
 We really appreciate your help!
 
-## Considerations
+<!-- ## Considerations -->
 
 <!-- Time: roughly how much effort it will take?
 
@@ -25,6 +25,7 @@ Importance: is it critical that it get done, or is it more casual?
 <!-- - **Discussion moderator**Be aware of discussions happening on Slack and Meetup. Answer questions, suggest proper usage, report inappropriate usage. Make people feel like someone official is paying attention.
 
 -->
+- **Video Meeting Facilitator**: Help us figure out how to facilitate a collobarative video meeting and/or help troubleshoot during the video meeting.
 - **Logo Designer**: Boston Software Crafters is looking for a good logo or stock image to use
 - **New Member Greeter**: When new members join Meetup or Slack, send them a personal message welcoming them. People answer questions when they join; it would be great to include details from those answers, and an encouragement to share their expertise (if they have claimed some).  **30min/week; One person**
 - **Kata Facilitator**: Volunteer to organize and facilitate a kata.  Help others get set up to be productive.

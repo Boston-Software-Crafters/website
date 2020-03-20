@@ -5,7 +5,7 @@
 // Variables for Hydeout
 
 $root-font-family: Merriweather, Georgia, serif;
-$sidebar-bg-color: lighten(#2b442f, 10%);
+$sidebar-bg-color: blue;
 $link-color: #289828;
 $sidebar-sticky: false;
 $section-spacing: 2rem;
@@ -16,7 +16,10 @@ $large-font-size: 1.15rem !default;
 
 // Overrides of Hydeout styles
 
-#sidebar {
+// ".home #sidebar" overrides what Jekyll generates
+// if you do just #sidebar, Jekyll overrides the settings for sidebar
+// on home page
+.home #sidebar, #sidebar {
     .site-title {
         font-family: $root-font-family;
         font-size: 2em;
@@ -69,9 +72,9 @@ footer.content {
     padding-top: 3rem;
 }
 
-// .content * {
-//     max-width: 32em;
-// }
+.content * {
+    max-width: 32em;
+}
 
 nav#sidebar-nav-links .active {
     text-decoration: underline;

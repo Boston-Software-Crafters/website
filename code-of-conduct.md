@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
 sidebar_link: true
-sidebar_sort_order: 1
+sidebar_sort_order: 500
 ---
 
 Boston Software Crafters events are intended for networking and collaboration in the developer community.

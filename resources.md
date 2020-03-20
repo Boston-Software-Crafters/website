@@ -1,7 +1,7 @@
 ---
 title: Resources
 sidebar_link: true
-sidebar_sort_order: 600
+sidebar_sort_order: 200
 ---
 
 **Table of Contents**

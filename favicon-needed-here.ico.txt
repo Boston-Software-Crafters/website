@@ -1,0 +1,4 @@
+This should be replaced by a file called favicon.ico
+Can be the same as boston-software-crafters.png
+
+?? Notating with ?? to be able to find files that  need to be changed
