@@ -10,7 +10,7 @@ sidebar_sort_order: 200
 - [Katas](#katas)
 - [Communities](#communities)
   - [Coding Meetups: come together to code](#coding-meetups)
-  - [Software Crafters (Worldwide, not Boston)](#worldwide)
+  - [International Resources](#international)
 - [Books](#books)
   - [Coding Dojos](#dojo-books)
   - [Test Driven Development](#tdd-books)
@@ -31,6 +31,8 @@ sidebar_sort_order: 200
   - **Solution Performance:** When you complete a challenge, LeetCode will tell you how your solution compares to other solutions.  If you are in the bottom 50%, try again!  You can also check how you did when returning to the website if you click on the problem you solved, click on Submissions, and then click on "Accepted".
   - **Getting Help:** There is a discussion tab where possible solutions are discussed.
 
+- [HackerRank](https://hackerrank.com) - popular tool used by employees for assessing job candidates.  LeetCode has more resources, categorization, and functionality. However, if you are job seeking, you may want to become familiar with HackerRank.
+
 - [Project Euler](https://projecteuler.net/) is great fun for the mathematically-minded. Over 650 problems which ramp up rather quickly in difficulty. If you've got a strong mathematical background you'll have a real advantage here. If not, you might well acquire one.
 
  - [Advent of Code](https://adventofcode.com/) is a Christmas-themed problem set that has offered 25 new programming challenges every December since 2015. Each set is a collection of well-made problems that challenge your ability to reason algorithmically. Problems range from moderate to difficult.
@@ -46,31 +48,30 @@ sidebar_sort_order: 200
 ## Communities
 
 <a name="coding-meetups"></a>
-#### Coding Meetups: come together to code</h4>
+#### Coding Meetups: come together to code
 
 - [Boston Software Crafters](https://www.meetup.com/Boston-Software-Crafters)
 - [Boston React](https://www.meetup.com/ReactJS-Boston/events/) - Come to project nights to work on a React project.  Group also hosts presentations.  Meets monthly.
-- [Code for Boston](https://www.meetup.com/code-for-boston)Code for Boston - Volunteer on a real life project for a non-profit.  For coders and non-coders.
-- [Boston Python](https://www.meetup.com/bostonpython): Come to project nights to get help on a project, help others, or to discuss Python related topics.  Group also hosts presentations.  Meets monthly.
+- [Code for Boston](https://www.meetup.com/code-for-boston) - Volunteer on a real life project for a non-profit.  For coders and non-coders.
+- [Boston Python](https://www.meetup.com/bostonpython) - Come to project nights to get help on a project, help others, or to discuss Python related topics.  Group also hosts presentations.  Meets monthly.
 - [Technical Skills Share Group](https://www.meetup.com/Technical-Skills-Share-Group/)  For technical professionals in transition.  Help each other by working on projects, sharing the skills they have, and learning new ones.  For coders and non-coders.  Main group meets Wed during the day in Acton.  Subgroups meet every day.  Video conference option available.
-- [Boston Tech Interview Meetup](https://www.meetup.com/Boston-Tech-Interview-Meetup/)Practice technical interviewing, polish up algorithms knowledge and network with other software engineers looking to move forward in their careers.  Meets monthly.
+- [Boston Tech Interview Meetup](https://www.meetup.com/Boston-Tech-Interview-Meetup/) - Practice technical interviewing, polish up algorithms knowledge and network with other software engineers looking to move forward in their careers.  Meets monthly.
 
-<a name="worldwide"></a>
-#### Software Crafters (Worldwide, not Boston)
-- [Slack](https://softwarecrafters.slack.com/)Software Crafters Slack &#8211; Boston</a> &#8211; Boston-specific Channel on Software Crafters Slack.  See &#8220;Software Crafters&#8221; slack below for information on how to join Software Crafters slack.
-- [Other Communities](https://softwarecrafters.org/)Software Craft Communities Worldwide</a>
-Software Crafters Slack &#8211; Join (http://slack.softwarecrafters.org/)here</a>.  Once you have joined, (https://softwarecrafters.slack.com)log in through the web</a> or through the Slack app.  World Wide Slack Forum
+<a name="international"></a>
+#### International Resources
+- [Slack](https://softwarecrafters.slack.com/) - softwarecrafters.org Slack channel
+- [softwarecrafters.org](https://softwarecrafters.org/) - Home page for worldwide software crafters organization.  Lists other worldwide software crafter organizations and events.
 
 <a name="books"></a>
 ## Books
 
 <a name="dojo-books"></a>
 #### Coding Dojos
-- [The Coding Dojo Handbook, by Emily Bache](https://leanpub.com/codingdojohandbook)
+- [The Coding Dojo Handbook](https://leanpub.com/codingdojohandbook), by Emily Bache
 
 <a name="tdd-books"></a>
 #### Test Driven Development
-- [Mocks, Fakes, and Stubs<, by Emily Bache](https://leanpub.com/mocks-fakes-stubs)
+- [Mocks, Fakes, and Stubs](https://leanpub.com/mocks-fakes-stubs), by Emily Bache
 - “Test-Driven Development by Example”, Kent Beck
 - “Unit Test Patterns”, Gerard Meszaros
 - “Growing Object Oriented Software, Guided by Tests”, Steve Freeman and Nat Price

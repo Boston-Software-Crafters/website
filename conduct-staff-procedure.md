@@ -100,7 +100,7 @@ It is very important how we deal with the incident publicly. Our policy is to ma
 
 Depending on the incident, the organizers or their designate may decide to make one or more public announcements.  No one other than the organizer or someone delegated authority from the organizer should make any announcements.
 
-If some attendees were angered by the incident, it is best to apologize to them that the incident occurred to begin with. If there are residual hard feelings, suggest to them to write an email to organizers (contact info [here](contact.md)). It will be dealt with accordingly.
+If some attendees were angered by the incident, it is best to apologize to them that the incident occurred to begin with. If there are residual hard feelings, suggest to them to write an email to organizers (contact info [here](contact-and-feedback.md)). It will be dealt with accordingly.
 
 ---
 

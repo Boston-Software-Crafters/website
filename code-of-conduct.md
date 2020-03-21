@@ -73,7 +73,7 @@ Boston Software Crafters staff will be happy to help participants contact venue 
 
 ## License
 
-This Code of Conduct was based on the Boston Python Code of Conduct.  Click link for [website](https://about.bostonpython.com/code-of-conduct] or [github](https://github.com/BostonPython/about/blob/master/code-of-conduct.md)), which details the sources of its language, checked into gitHub.  The Boston Python Code of Conduct was copied, checked into gitHub, then modified and checked back into Boston Software Crafters github.
+This Code of Conduct was based on the Boston Python Code of Conduct.  Click link for [website](https://about.bostonpython.com/code-of-conduct] or [github](https://github.com/BostonPython/about.blob/master/code-of-conduct.md)), which details the sources of its language, checked into gitHub.  The Boston Python Code of Conduct was copied, checked into gitHub, then modified and checked back into Boston Software Crafters github.
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
 

@@ -11,7 +11,7 @@ In order to ensure that job announcements are relevant and useful to the communi
 - The job must be available to someone living in the Boston area. Either it's in the Boston area, or remote is OK.
 - The name of the hiring firm must be clearly provided. No mystery firms hidden behind a hiring agency.
 
-If your job posting meets these simple rules, feel free to s post it to the [#jobs channel in Slack][slack].  Messages posted to Slack are subject to after-the-fact moderation.
+If your job posting meets these simple rules, feel free to s post it to the #jobs channel in [Slack](slack.md).  Messages posted to Slack are subject to after-the-fact moderation.
 
 Some suggestions/requests:
 

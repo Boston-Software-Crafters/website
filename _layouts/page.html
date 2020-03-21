@@ -7,19 +7,26 @@ layout: default
   <h1 class="page-title">{{ page.title }}</h1>
 </header>
 {% endif %}
+
 <div class="content">
   {{ content }}
 </div>
 <footer class="content">
-  <p id="edit-page" class="editme">
-    <strong>Have a suggestion to improve this page?</strong>
-    <!-- Note: this link is wrong if testing locally, but is right on GitHub. -->
-    <a href="{% github_edit_link %}">Edit this page on GitHub</a> and submit a pull request!
-    Alternatively, <a href="https://github.com/Boston-Software-Crafters/website/issues/new">submit an issue</a> with your suggestion or
-    <a href="contact.html">contact us</a>.
-  </p>
+  <div id="edit-page" class="editme">
+    <p>
+       <strong>You can view comments and suggestions</strong> for modifications to this page and the website in general
+      by viewing pull requests and issues.  For more details, click <a href="contact-and-feedback.html#website">here</a>.
+    </p>
+    <p>
+      <strong>Have a suggestion to improve this page?</strong>
+      <!-- Note: this link is wrong if testing locally, but is right on GitHub. -->
+      <a href="https://github.com/Boston-Software-Crafters/website/edit/master/{{ page.path }}">
+        Edit this page on GitHub</a> and submit a pull request!
+      For alternative ways to provide feedback, click <a href="contact-and-feedback.html#website">here</a>.
+    </p>
+  </div>
   <br />
-  <p>Website content and structure inspired and initially copied from <a href="https://about/bostonpython.com">Boston Python</a> website.
+  <p>Website content and structure inspired and initially copied from the <a href="https://about.bostonpython.com">Boston Python</a> website.
   <br />
   <div w3-include-html-"copyright.html"></div>
 </footer>

@@ -1,12 +1,8 @@
-# How to Set Up a New Project For TDD
-
-To add additional setup instructions, make a pull request to this repo.
-
 Here are instructions for setting up testing environments:
 
 - From Boston Software Crafters using Visual Studio Code
   - [Java](https://github.com/Boston-Software-Crafters/kata-templates/blob/master/java/Readme.md)
-  - [Node.JS](https://github.com/Boston-Software-Crafters/kata-templates/blob/master/node/Readme.md)
+  - [Node.JS](https://github.com/Boston-Software-Crafters/kata-templates/blob/master/nodejs/Readme.md)
   - [Python](https://github.com/Boston-Software-Crafters/kata-templates/blob/master/python/Readme.md)
 
 - From [Berlin Software Crafters](https://github.com/swkBerlin/kata-bootstraps)Looks through, have not been tried yet by Boston Software Crafter.  **Any volunteer?**
