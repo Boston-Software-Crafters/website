@@ -4,7 +4,7 @@ title: Home
 
 Boston Software Crafters is a large and vibrant Software Crafters user group in the Boston area.  We meet the second Monday of the month. See [meetup.com/boston-software-crafters](https://meetup.com/Boston-Software-Crafters) for more details on the next event and to sign up.
 
-Founded in April of 2010, Boston Software Crafters mission is improvement and learning the craft of software through practice.  We run monthly hands on sessions dedicated to learning and skill improvement through collaborative exercises. It's a fun, passionate, group of developers committed to learning and helping others learn. I hope to see you there!
+The monthly hands on sessions are dedicated to learning and skill improvement through collaborative exercises that usually involve Test Driven Development, Pair Programming, and/or Mob Programming. It's a fun, passionate, group of developers committed to learning and helping others learn. I hope to see you there!
 
 We use [Slack](slack.md) for online discussions.
 
