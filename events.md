@@ -9,6 +9,7 @@ on with COVID-19 resolves.
 
 Specific events are listed on the [Boston Software Crafters meetup page](http://meetup.com/bostonsoftwarecrafters).  RSVP there to be assured a spot.
 
+**Conferences**
 - [Mob Programming Conference](https://mobprogrammingconference.com), May 30-31, currently scheduled for Boston
 - [Agile Games Conference](https://agilegamesnewengland.com), June 1-3, currently scheduled for Boston
 - [The Legacy of SoCraTes](https://www.crowdcast.io/e/the-legacy-of-socrates), April 1, 12:00-17:00 UTC, online
@@ -18,6 +19,7 @@ Specific events are listed on the [Boston Software Crafters meetup page](http://
 - See [resources/communities](resources.md#communities)
 
 **Collaborative Coding Projects:**
+- [agileventures](agileventures.org)- daily online meetings and pairing/mobbing. One time meetings and opportunities for working on non-profit projects
 - [Code for America](https://www.codeforamerica.org)
 - [Code for Boston](https://www.codeforboston.org)
 - Google [Covid 19 Hackathon](https://www.google.com/search?q=covid+hackathon&oq=covid+hacka&aqs=chrome.0.69i59j69i57j69i60.9995j0j4&sourceid=chrome&ie=UTF-8)
