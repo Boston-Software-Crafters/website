@@ -10,6 +10,7 @@ on with COVID-19 resolves.
 Specific events are listed on the [Boston Software Crafters meetup page](http://meetup.com/bostonsoftwarecrafters).  RSVP there to be assured a spot.
 
 **Conferences**
+
 - [Remote Retrosepective Day](https://remoteforever.com/remote-retrospectives-world-retrospective-day-2020) March 26, 4 PM - 6 PM(?) EST, free
 - [The Legacy of SoCraTes](https://www.crowdcast.io/e/the-legacy-of-socrates), April 1, 8 AM - 1 PM EST, online, free
 - [The Live Coders Conference](https://www.subscribepage.com/lcc2020), April 9
