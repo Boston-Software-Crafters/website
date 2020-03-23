@@ -5,7 +5,7 @@ title: Home
 ==> Boston Software Crafters needs a logo.  If accepted, logo attribution will be included when you hover over logo.   Contact <ethan@codecraftcoach.com> for questions and submissions.
 
 ## REMOTE MEETING FACILITATOR VOLUNTEERS NEEDED
-==> Contact <ethan@codecraftcoach.com> if interested.  See [Helping This Meetup](helpingthismeetup.md) for additional opportunities.
+==> Contact <ethan@codecraftcoach.com> if interested.  See [Helping This Meetup](helpingthismeetup.md) for more details and additional opportunities.
 
 ## ABOUT BOSTON SOFTWARE CRAFTERS
 Boston Software Crafters is a large and vibrant Software Crafters user group in the Boston area.  We meet the second Monday of the month. See [meetup.com/boston-software-crafters](https://meetup.com/Boston-Software-Crafters) for more details on the next event and to sign up.
