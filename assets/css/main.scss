@@ -27,6 +27,11 @@ $large-font-size: 1.15rem !default;
     }
 }
 
+
+.content table {
+    max-width: 80rem;
+}
+
 img {
     display: inline;
     margin-bottom: -.25em;
