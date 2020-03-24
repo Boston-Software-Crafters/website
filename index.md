@@ -2,11 +2,11 @@
 title: Home
 ---
 ## ANNOUNCEMENTS
-### ***LOGO CONTEST***
+#### ***LOGO CONTEST***
 
 Boston Software Crafters needs a logo.  If accepted, logo attribution will be included when you hover over logo.   Contact <feedback@bostonsoftwarecrafters> for questions and submissions.
 
-### ***NEEDED - MEETUP PHOTO SHOWING ONLINE COLLABORATION***
+#### ***NEEDED - MEETUP PHOTO SHOWING ONLINE COLLABORATION***
 
 We are looking to replace the current meetup photo with something that shows on line collaboration.  If you have a good photo or know of a stock image, contact <feedback@bostonsoftwarecrafters.com> for questions and submissions.
 
