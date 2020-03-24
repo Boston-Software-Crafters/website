@@ -17,9 +17,9 @@ or email specific organizers:
 | Email | Team |
 |-------|-------|
 |<ethanstrominger2@gmail.com>|Facilitation, Feedback, Conduct|
-|<david-sturgis@pluralsight.com>|Facilitator, Feedback, Conduct |
+|<david-sturgis@pluralsight.com>|Facilitation, Feedback, Conduct |
+|<pmr@pajato.com>|Facilitation, Feedback, Conduct|
 |<sam-backus@pluralsight.com>|Facilitation|
-|<pmr@pajato.com>|Facilitation|
 
 
 We also have a [Slack workspace](slack.md) for online discussions with the entire community.
