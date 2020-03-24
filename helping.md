@@ -11,7 +11,7 @@ To volunteer or discuss in more detail, [contact us](contact-and-feedback.md).
 
 We really appreciate your help!
 
-##  😄 MOST OF THESE ROLES CAN BE DONE ON A TEAM OR INDIVIDUALLY  😄
+##  😄 THESE ROLES CAN BE DONE ON A TEAM OR INDIVIDUALLY  😄
 
 | Role | Description |
 |------|-------------|
