@@ -5,27 +5,11 @@ sidebar_sort_order: 400
 permalink: helping.html
 ---
 
-Keeping Boston Software Crafters running requires lots of small jobs. Our biggest needs right now are video meeting facilitator and logo designer.  If you take on one of these, it's a big help to the organization. You can sign up for one of these and then move to doing something else later on. Or you can suggest a different job that you're interested in doing.
+Keeping Boston Software Crafters running requires lots of small jobs. If you take on one of these, it's a big help to the organization. You can sign up for one of these and then move to doing something else later on. Or you can suggest a different job that you're interested in doing.
 
-If you want to talk about any of this, find us in [Slack](slack.md) or [contact us](contact-and-feedback.md).
+To volunteer or discuss in more detail, [contact us](contact-and-feedback.md).
 
 We really appreciate your help!
-
-<!-- ## Considerations -->
-
-<!-- Time: roughly how much effort it will take?
-
-One-time or on-going: how big a commitment are you making?
-
-One person, or shared job: can this task be shared among a few people?
-
-Importance: is it critical that it get done, or is it more casual?
- -->
-
-
-<!-- |Discussion moderator**Be aware of discussions happening on Slack and Meetup. Answer questions, suggest proper usage, report inappropriate usage. Make people feel like someone official is paying attention.
-
--->
 
 ##  😄 MOST OF THESE ROLES CAN BE DONE ON A TEAM OR INDIVIDUALLY  😄
 
