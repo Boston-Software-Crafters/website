@@ -14,12 +14,12 @@ Emails to use based on topic:
 
 or email specific organizers:
 
-| Email | Team |
-|-------|-------|
-|<ethanstrominger2@gmail.com>|Facilitation, Feedback, Conduct|
-|<david-sturgis@pluralsight.com>|Facilitation, Feedback, Conduct |
-|<pmr@pajato.com>|Facilitation, Feedback, Conduct|
-|<sam-backus@pluralsight.com>|Facilitation|
+| Name | Email | Team |
+|------|-------|------|
+|Ethan Strominger|<ethanstrominger2@gmail.com>|Facilitation, Feedback, Conduct|
+|David Sturgis|<david-sturgis@pluralsight.com>|Facilitation, Feedback, Conduct |
+|Paul Reilly|<pmr@pajato.com>|Facilitation, Feedback, Conduct|
+|Sam Backus|<sam-backus@pluralsight.com>|Facilitation|
 
 
 We also have a [Slack workspace](slack.md) for online discussions with the entire community.
