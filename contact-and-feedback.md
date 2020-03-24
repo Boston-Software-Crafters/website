@@ -21,7 +21,6 @@ or email specific organizers:
 |Paul Reilly|<pmr@pajato.com>|Facilitation, Feedback, Conduct|
 |Sam Backus|<sam-backus@pluralsight.com>|Facilitation|
 
-
 We also have a [Slack workspace](slack.md) for online discussions with the entire community.
 
 <h2>Event Feedback</h2>
