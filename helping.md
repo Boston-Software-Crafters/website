@@ -2,6 +2,7 @@
 title: Helping This Meetup
 sidebar_link: true
 sidebar_sort_order: 400
+permalink: helping.html
 ---
 
 Keeping Boston Software Crafters running requires lots of small jobs. Our biggest needs right now are video meeting facilitator and logo designer.  If you take on one of these, it's a big help to the organization. You can sign up for one of these and then move to doing something else later on. Or you can suggest a different job that you're interested in doing.

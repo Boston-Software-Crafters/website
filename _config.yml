@@ -1,7 +1,6 @@
 remote_theme: fongandrew/hydeout
 title: Boston Software Crafters
-permalink: /:name
 plugins:
   - jekyll-redirect-from
 url: Boston-Software-Crafters.github.io
-baseurl: /website
+baseurl:

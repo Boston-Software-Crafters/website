@@ -2,6 +2,7 @@
 title: Slack
 sidebar_link: true
 sidebar_sort_order: 250
+permalink: slack.html
 ---
 
 Boston Software Crafters has a Slack workspace for online discussions.

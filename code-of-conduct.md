@@ -2,6 +2,7 @@
 title: Code of Conduct
 sidebar_link: true
 sidebar_sort_order: 500
+permalink: code-of-conduct.html
 ---
 
 Boston Software Crafters events are intended for networking and collaboration in the developer community.
@@ -60,9 +61,9 @@ Communication outside of events are also subject to the Code of Conduct, includi
 
 If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the Boston Software Crafters leadership team immediately.
 
-**Incident reporting**: send email to: Ethan Strominger <ethan@codecraftcoach.com>, David Sturgis <david-sturgis@pluralsight.com>
+**Incident reporting**: send email to: <conduct@bostonsoftwarecrafters.com>.
 
-In case of a conflict of interest, you can individually contact one of the organizers.
+In case of a conflict of interest, you can individually contact any individual on the conduct team listed on the [Conduct and Feedback](conduct-and-feedback.md) page.
 
 Boston Software Crafters staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of any event. We value your attendance.
 

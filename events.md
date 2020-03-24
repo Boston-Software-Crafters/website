@@ -2,6 +2,7 @@
 title: Events
 sidebar_link: true
 sidebar_sort_order: 100
+permalink: events.html
 ---
 
 Boston Software Crafters runs one events on second Monday of the month, with some exceptions.  Events will be on line until the situati

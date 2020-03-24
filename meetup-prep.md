@@ -1,3 +1,7 @@
+---
+title: Meetup Prep
+permalink: meetup-prep.html
+---
 The following is helpful preparation for the session, but not required:
 - a computer with an IDE and a blank project with a single unit test in the language you prefer.  See [new project setup](new-project-setup.md) for more details.
 - read these articles about test driven development:
