@@ -5,7 +5,7 @@ sidebar_sort_order: 100
 permalink: events.html
 ---
 
-Boston Software Crafters runs one events on second Monday of the month, with some exceptions.  Events will be on line until the situati
+Boston Software Crafters runs one events on second Monday of the month, with some exceptions.  Events will be on line until the situation
 on with COVID-19 resolves.
 
 Specific events are listed on the [Boston Software Crafters meetup page](http://meetup.com/bostonsoftwarecrafters).  RSVP there to be assured a spot.
