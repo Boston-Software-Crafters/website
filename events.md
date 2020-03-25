@@ -13,7 +13,8 @@ Specific events are listed on the [Boston Software Crafters meetup page](http://
 **Conferences**
 
 - [Remote Retrosepective Day](https://remoteforever.com/remote-retrospectives-world-retrospective-day-2020) March 26, 4 PM - 6 PM(?) EST, free
-- [COVID19 Hackathon](https://www.meetup.com/PyData-Boston-Cambridge/events/269551893/), March 28, 10 AM - 5 PM
+- [COVID19 Hackathon](https://www.meetup.com/PyData-Boston-Cambridge/events/269551893/), March 28, 10 AM - 5 PM, online, free
+- [PyLadies International Women's Month Lightning Talks](https://ti.to/pyladies/womensmonthtalks/), March 28, 11 AM - 1 PM EST, online, free
 - [The Legacy of SoCraTes](https://www.crowdcast.io/e/the-legacy-of-socrates), April 1, 8 AM - 1 PM EST, online, free
 - [The Live Coders Conference](https://www.subscribepage.com/lcc2020), April 9
 - [RedHat Summit](https://www.redhat.com/en/summit), April 28-29, online, free
