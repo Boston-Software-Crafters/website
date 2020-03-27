@@ -6,6 +6,43 @@
 [Faclitators and IDEs](#faciliators-and-ides)
   [Web IDE Alternatives](#web-ide-alternatives)
 
+<a name="questions-issues"></a>
+## Proposals
+- [ ] If hard to hear particpant, suggest participant uses slack to communicate
+- [ ] If participant has bad internet connection, faciliator suggests skipping the participant as a driver
+- [ ] Create a Technical Issues channel
+- [ ] Identify a technical floater to help all the facilitators and participants if technical issues.
+- [ ]
+
+<a name="todos"></a>
+## To Dos
+- [ ] Is there a better way to track proposals and todos (GitHub issues?)?
+- [ ] Schedule trial sessions
+- [ ] Zoom features for main presenter and facilitator to explore (not sure if paid or free):
+  - [ ] Partipant options: Hand Raise, Yes No, Thumbs Up/Thumbs Down
+  - [ ] Two people sharing screen at same time, you can flip back and forth
+
+#### ***Katas***
+
+| Language | Developer| Status||
+|---|---|---|---|
+| Kotlin|Paul R|Completed| |
+| Python| Sam, David(?)|Pending|   |
+| Ethan|JavaScript|Pending||
+
+#### ***Facilitators***
+| Facilitator|Language|IDE|Status|
+|---|---|---|---|
+| Alex|   |   |
+| Eric|   |   |
+| Ethan|JavaScript|VSCode|
+| Danil|   |   |
+| David|Python|VSCode|
+| Paul H|   |   |
+| Paul R|Kotlin|IntelliJ|
+| Sam|Python|VSCode|
+
+
 <a name="facilitator-prep"></a>
 ## Facilitator Prep
 - pre-select facilitator.  Facilitators are familiar with TDD, mob programming, and the kata.
@@ -13,12 +50,16 @@
   - selects a language and has the IDE set up and starter code ready to go
   - decides which remote control enabled conference tool  to use (paid zoom and freeconferencecalls.com are top choice)
   - decides whether to be pure facilitator or participate
+  - does a trial run
 
 <a name="collateral"></a>
 ## Collateral to be Provided on Meetup and Email
 - URL for Zoom meetup (Paul R's Zoom URL)
+- Info on freeconcferencecall.com
 - Details for joining Slack
-- Optional reading material
+- Optional reading material (Paul R, Ethan)
+- Tips
+  - Space bar to mute / unmute in Zoom
 
 <a name="meeting"></a>
 ## Meeting
@@ -40,11 +81,7 @@
 
 <a name="kata-templates"></a>
 ## Kata Templates
-Paul Reilly is leading the effort and has come up with a great structure.  See https://gitlab.com/boston-software-crafters.  Language specific assignments:
-- Kotlin (Paul R)
-- Java (Paul R)
-- Python (Sam, David (?))
-- JavaScript (Ethan)
+Paul Reilly is leading the effort and has come up with a great structure.  See https://gitlab.com/boston-software-crafters.  Developer and language are listed in the [To Dos](#todos) section.
 
 <a name="sources-for-templates"></a>
 ### Sources for Templates
@@ -56,20 +93,7 @@ Paul Reilly is leading the effort and has come up with a great structure.  See h
 
 <a name="facilitators-and-ides"></a>
 ## Facilitators and IDEs
-Each facilator can choose the IDE.  Current plan:
-
-Needed: 3 Python, 2 JavaScript, 2 Java, 1 Kotlin
-
-| Facilitator|Language|IDE|
-|---|---|---|
-| Alex|   |   |
-| Eric|   |   |
-| Ethan|JavaScript|VSCode|
-| Danil|   |   |
-| David|Python|VSCode|
-| Paul H|   |   |
-| Paul R|Kotlin|IntelliJ|
-| Sam|Python|VSCode|
+Each facilator can choose the IDE.  See [To Dos](#todos) for facilitator and IDE list.
 
 <a name="web-ide-alternatives"></a>
 ### ***Web IDE Alternatives***
