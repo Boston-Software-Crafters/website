@@ -1,18 +1,10 @@
 ---
 title: Home
-testVar: SayWhat
 ---
 ## ANNOUNCEMENTS
-##### ***NEXT MEETING ONLINE***
-
-Our next meeting is April 13.  Details and registration are on [meetup](https://www.meetup.com/Boston-Software-Crafters/events/269500995/).
-
-##### ***LOGO CONTEST***
-
-Boston Software Crafters needs a logo.  If accepted, logo attribution will be included when you hover over logo.   Contact <feedback@bostonsoftwarecrafters> for questions and submissions.
-
-##### ***JOIN US ON SLACK***
-Details [here](#slack).
+- ***NEXT MEETING ONLINE*** - Our next meeting is April 13.  Details and registration are on [meetup](https://www.meetup.com/Boston-Software-Crafters/events/269500995/).
+- ***LOGO CONTEST*** - Boston Software Crafters needs a logo.  If accepted, logo attribution will be included when you hover over logo.   Contact <feedback@bostonsoftwarecrafters> for questions and submissions.
+- ***JOIN US ON SLACK*** - Details [here](#slack).
 
 ## ABOUT BOSTON SOFTWARE CRAFTERS
 Boston Software Crafters is a large and vibrant Software Crafters user group in the Boston area.  We meet the second Monday of the month. See [meetup.com/boston-software-crafters](https://meetup.com/Boston-Software-Crafters) for more details on the next event and to sign up.
