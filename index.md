@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-## ANNOUNCEMENTS
+## ANNOUNCEMENTS!!
 #### ***LOGO CONTEST***
 
 Boston Software Crafters needs a logo.  If accepted, logo attribution will be included when you hover over logo.   Contact <feedback@bostonsoftwarecrafters> for questions and submissions.
