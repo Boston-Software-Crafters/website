@@ -7,6 +7,42 @@
   [Web IDE Alternatives](#web-ide-alternatives)
 
 <a name="questions-issues"></a>
+## Roles
+Individual
+- Logistics Facilitator - presents info on how session will work
+- Kata Presenter
+- Email Putter Togetherer - puts together an email for participants
+
+Group
+- Kata Room Faclitator - approx 8
+- Template Author
+
+#### ***Logistics Facilitator***
+Ethan
+
+#### ***Kata Presenter***
+Paul R
+
+#### ***Kata Templates***
+
+| Language | Developer| Status||
+|---|---|---|---|
+| Kotlin|Paul R|Completed| |
+| Python| Sam, David(?)|Pending|   |
+| Ethan|JavaScript|Pending||
+
+#### ***Facilitators***
+| Template Author|Language|IDE|Status|
+|---|---|---|---|
+| Alex|   |   |
+| Eric|   |   |
+| Ethan|JavaScript|VSCode|
+| Danil|   |   |
+| David|Python|VSCode|
+| Paul H|   |   |
+| Paul R|Kotlin|IntelliJ|
+| Sam|Python|VSCode|
+
 ## Proposals
 - [ ] If hard to hear particpant, suggest participant uses slack to communicate
 - [ ] If participant has bad internet connection, faciliator suggests skipping the participant as a driver
@@ -22,35 +58,26 @@
   - [ ] Partipant options: Hand Raise, Yes No, Thumbs Up/Thumbs Down
   - [ ] Two people sharing screen at same time, you can flip back and forth
 
-#### ***Katas***
-
-| Language | Developer| Status||
-|---|---|---|---|
-| Kotlin|Paul R|Completed| |
-| Python| Sam, David(?)|Pending|   |
-| Ethan|JavaScript|Pending||
-
-#### ***Facilitators***
-| Facilitator|Language|IDE|Status|
-|---|---|---|---|
-| Alex|   |   |
-| Eric|   |   |
-| Ethan|JavaScript|VSCode|
-| Danil|   |   |
-| David|Python|VSCode|
-| Paul H|   |   |
-| Paul R|Kotlin|IntelliJ|
-| Sam|Python|VSCode|
-
 
 <a name="facilitator-prep"></a>
-## Facilitator Prep
+## Kata Room Facilitator Prep
 - pre-select facilitator.  Facilitators are familiar with TDD, mob programming, and the kata.
 - each facilitator
   - selects a language and has the IDE set up and starter code ready to go
   - decides which remote control enabled conference tool  to use (paid zoom and freeconferencecalls.com are top choice)
   - decides whether to be pure facilitator or participate
   - does a trial run
+
+<a name="kata-templates"></a>
+## Kata Templates
+Paul Reilly is leading the effort and has come up with a great structure.  See https://gitlab.com/boston-software-crafters.  Developer and language are listed in the [To Dos](#todos) section.  Guidelines:
+- for generic language templates, create a template with:
+  - a test that calls an independent or static function and passes
+  - a test that calls an independent or static function and fails
+  - a test that creates an instance of a class (for instance, Person class) and tests a class method (for instance, full name = first + last)
+  - instructions on how to configure an IDE for a language
+- for kata templates for a language, unless the kata has starter code, create a readme that tells the person where to get the generic language template and where to find information about the kata.
+
 
 <a name="collateral"></a>
 ## Collateral to be Provided on Meetup and Email
@@ -78,10 +105,6 @@
 - 8:30 Final retro (for each breakout room)
 - 8:40 Wrap up
 - 8:45 Virtual after hour party
-
-<a name="kata-templates"></a>
-## Kata Templates
-Paul Reilly is leading the effort and has come up with a great structure.  See https://gitlab.com/boston-software-crafters.  Developer and language are listed in the [To Dos](#todos) section.
 
 <a name="sources-for-templates"></a>
 ### Sources for Templates
