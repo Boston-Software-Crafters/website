@@ -2,7 +2,7 @@
 title: Volunteering
 sidebar_link: true
 sidebar_sort_order: 300
-permalink: volunteering.html
+# permalink: volunteering.html
 ---
 - [Code for Boston](https://www.meetup.com/code-for-boston) - Volunteer on a project to deliver an application or other technology to a non-profit.  For coders and non-coders.
 - Organizations that match eager developers with projects or non-profits

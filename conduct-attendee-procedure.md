@@ -1,6 +1,6 @@
 ---
 title: Attendee Procedure For Reporting Code of Conduct Incidents
-permalink: conduct-attendee-procedure.html
+# permalink: conduct-attendee-procedure.html
 ---
 
 **If you believe someone is in physical danger**, consult with a volunteer or someone on th leadership team for the appropriate crisis number, non-emergency number, or police number.

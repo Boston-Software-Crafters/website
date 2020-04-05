@@ -2,7 +2,7 @@
 title: Feedback / Contact Us
 sidebar_link: true
 sidebar_sort_order: 600
-permalink: contact-and-feedback.html
+# permalink: contact-and-feedback.html
 ---
 Emails to use based on topic:
 

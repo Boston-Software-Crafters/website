@@ -1,6 +1,6 @@
 ---
 title: Staff Procedure For Incident Response
-permalink: conduct-staff-procedure.html
+# permalink: conduct-staff-procedure.html
 ---
 
 Be sure to have a good understanding of our [Code of Conduct](code-of-conduct.md).

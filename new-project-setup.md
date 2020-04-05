@@ -1,6 +1,6 @@
 ---
 title: New Project Setup
-permalink: new-project-setup.html
+# permalink: new-project-setup.html
 ---
 Here are instructions for setting up testing environments:
 

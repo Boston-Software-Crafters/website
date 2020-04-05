@@ -2,7 +2,7 @@
 title: Code of Conduct
 sidebar_link: true
 sidebar_sort_order: 500
-permalink: code-of-conduct.html
+# permalink: code-of-conduct.html
 ---
 
 Boston Software Crafters events are intended for networking and collaboration in the developer community.

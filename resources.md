@@ -2,7 +2,7 @@
 title: Resources
 sidebar_link: true
 sidebar_sort_order: 200
-permalink: resources.html
+# permalink: resources.html
 ---
 
 **Table of Contents**

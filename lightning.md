@@ -1,6 +1,6 @@
 ---
 title: Lightning Talks
-permalink: lightning.html
+# # permalink: lightning.html
 ---
 
 Lightning talks are up to 5-10 minutes long, on any topic of interest to the Software Crafting community.  It doesn't have to be about something that you wrote, it can be something that you learned, or a technique you think other people will be interested in.
