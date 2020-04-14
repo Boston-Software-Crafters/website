@@ -16,8 +16,6 @@ Specific events are listed on the [Boston Software Crafters meetup page](http://
 - [RedHat Summit](https://www.redhat.com/en/summit), April 28-29, online, free
 - [Byteconf React 2020](https://www.bytesized.xyz/react-2020), May 1-2, online, free
 - [Code Craftsmans Saturdays](https://www.eventbrite.com/e/joint-mob-retreat-day-with-munich-software-craft-community-tickets-102532056140), May 9, free
-- [Mob Programming Conference](https://mobprogrammingconference.com), May 30-31, currently scheduled for Boston
-- [Agile Games Conference](https://agilegamesnewengland.com), June 1-3, currently scheduled for Boston
 - [MongoDB World 2020](https://www.mongodb.com/world), June 9-10, online, free (rescheduled from Mary 4-5)
 - [DEVCONF.us](https://www.devconf.info/us/), Sep 23-25, Boston - Open source conference sponsored by RedHat, free
 
