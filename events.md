@@ -13,7 +13,7 @@ Specific events are listed on the [Boston Software Crafters meetup page](http://
 #### Conferences
 
 - [Mob Retreat Day](https://www.eventbrite.com/e/joint-mob-retreat-day-with-munich-software-craft-community-tickets-102532056140), April 25, online, free 
-- Online Coding Kata, April 20 1-2:30 PM, online, free.  Hosted from Berlin, Germany!! To participate, join slack https://bit.ly/join-coding-kata, and clone this repository http://bit.ly/kata-repo.  Every last Monday.
+- Online Coding Kata, April 20 1-2:30 PM, online, free.  Hosted from Berlin, Germany!! To participate, join this [slack group](https://bit.ly/join-coding-kata), and clone [this repository](http://bit.ly/kata-repo).  Every last Monday.
 - [RedHat Summit](https://www.redhat.com/en/summit), April 28-29, online, free
 - [Byteconf React 2020](https://www.bytesized.xyz/react-2020), May 1-2, online, free
 - [Code Craftsmans Saturdays](https://www.eventbrite.com/e/code-craftsman-saturdays-remote-tickets-86994443723), May 9, free
