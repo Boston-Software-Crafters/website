@@ -35,7 +35,7 @@ Paul R
 | Template Author|Language|IDE|Status|
 |---|---|---|---|
 | Alex|   |   |
-| Eric|   |   |
+| Eric|Python|   |
 | Ethan|JavaScript|VSCode|
 | Danil|   |   |
 | David|Python|VSCode|
