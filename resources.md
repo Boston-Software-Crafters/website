@@ -11,7 +11,8 @@ sidebar_sort_order: 200
 - [Katas](#katas)
 - [Communities](#communities)
   - [Coding Meetups: come together to code](#coding-meetups)
-  - [International Resources](#international)
+  - [softwarecrafters.org (international)](#international)
+- [Podcasts](#podcasts)
 - [Books](#books)
   - [Coding Dojos](#dojo-books)
   - [Test Driven Development](#tdd-books)
@@ -62,9 +63,17 @@ See also [volunteering](volunteer.md)
 - [Boston Tech Interview Meetup](https://www.meetup.com/Boston-Tech-Interview-Meetup/) - Practice technical interviewing, polish up algorithms knowledge and network with other software engineers looking to move forward in their careers.  Meets monthly.
 
 <a name="international"></a>
-#### International Resources
+#### softwarecrafters.org (international)
 - [Slack](https://softwarecrafters.slack.com/) - softwarecrafters.org Slack channel
 - [softwarecrafters.org](https://softwarecrafters.org/) - Home page for worldwide software crafters organization.  Lists other worldwide software crafter organizations and events.
+
+<a name="podcasts"></a>
+## Podcasts
+[Tech Done Right](https://podcasts.apple.com/us/podcast/tech-done-right/id1195695341) - 72 episodes on how to do technology the right way.
+
+<a name="books"></a>
+## Books
+
 
 <a name="books"></a>
 ## Books
