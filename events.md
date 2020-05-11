@@ -12,12 +12,10 @@ Specific events are listed on the [Boston Software Crafters meetup page](http://
 
 #### Conferences
 
-- [Mob Retreat Day](https://www.eventbrite.com/e/joint-mob-retreat-day-with-munich-software-craft-community-tickets-102532056140), April 25, online, free 
-- Online Coding Kata, April 20 1-2:30 PM, online, free.  Hosted from Berlin, Germany!! To participate, join this [slack group](https://bit.ly/join-coding-kata), and clone [this repository](http://bit.ly/kata-repo).  Every last Monday.
-- [RedHat Summit](https://www.redhat.com/en/summit), April 28-29, online, free
-- [Byteconf React 2020](https://www.bytesized.xyz/react-2020), May 1-2, online, free
-- [Code Craftsmans Saturdays](https://www.eventbrite.com/e/code-craftsman-saturdays-remote-tickets-86994443723), May 9, free
-- [MongoDB World 2020](https://www.mongodb.com/world), June 9-10, online, free (rescheduled from Mary 4-5)
+- [UK Mob Retreat](https://www.eventbrite.com/e/eu-and-uk-mobretreat-registration-104193664054) Saturday May 16, from 10am to 5pm CEST (3 pm to 10pm EDT)
+- [US Mob Retreat](https://www.eventbrite.com/e/us-mobretreat-tickets-104193650012), Saturday May 23, from 8:30 am to 4:30pm EDT
+- [MongoDB World 2020](https://www.mongodb.com/world), June 9-10, online, free (rescheduled from May 4-5)
+- [Code Craft Saturdays](com/e/code-craft-saturdays-remote-tickets-86994443723), Sat June 19, 8:30 - 4:30 AN EDT
 - [DEVCONF.us](https://www.devconf.info/us/), Sep 23-25, Boston - Open source conference sponsored by RedHat, free
 
 ##### Meetups
