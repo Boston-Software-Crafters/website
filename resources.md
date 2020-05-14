@@ -9,9 +9,6 @@ sidebar_sort_order: 200
 - [Meetup Prep and Environment Setup](#meetup-prep)
 - [Coding Challenges](#challenges)
 - [Katas](#katas)
-- [Communities](#communities)
-  - [Coding Meetups: come together to code](#coding-meetups)
-  - [softwarecrafters.org (international)](#international)
 - [Podcasts](#podcasts)
 - [Books](#books)
   - [Coding Dojos](#dojo-books)
@@ -46,6 +43,7 @@ sidebar_sort_order: 200
 
 [Gabe Montalvo's Curated List of Coding Katas](https://github.com/gamontal/awesome-katas)
 
+<a name="podcasts"></a>
 ## Podcasts
 [Tech Done Right](https://podcasts.apple.com/us/podcast/tech-done-right/id1195695341) - 72 episodes on how to do technology the right way.
 
