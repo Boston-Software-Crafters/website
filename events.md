@@ -5,12 +5,14 @@ sidebar_sort_order: 100
 # permalink: events.html
 ---
 
+
+## Boston Software Crafters
 Boston Software Crafters runs one events on second Monday of the month, with some exceptions.  Events will be on line until the situation
 on with COVID-19 resolves.
 
 Specific events are listed on the [Boston Software Crafters meetup page](http://meetup.com/bostonsoftwarecrafters).  RSVP there to be assured a spot.
 
-#### Conferences
+## Conferences
 All conferences are free unless otherwise noted.
 
 - [UK Mob Retreat](https://www.eventbrite.com/e/eu-and-uk-mobretreat-registration-104193664054) Saturday May 16, from 10am to 5pm CEST (3 pm to 10pm EDT)
@@ -21,10 +23,11 @@ All conferences are free unless otherwise noted.
 - [Code Craft Saturdays](com/e/code-craft-saturdays-remote-tickets-86994443723), Sat June 19, 8:30 - 4:30 AN EDT
 - [DEVCONF.us](https://www.devconf.info/us/), Sep 23-25, Boston - Open source conference sponsored by RedHat
 
-##### Meetups
-- See [resources/communities](resources.md#communities)
+## Compiled Lists of Online Events
+- [Homeferences](https://github.com/homeferences/list)
+- [Free Online Conferences](https://docs.google.com/spreadsheets/d/1IKXAcDoYnWNpuFaDYkn_aplDZ5fRI0bJNWah0rGFO5E/htmlview) (started by Women in Tech Slack Group)
 
-#### Collaborative Coding Projects
+## Collaborative Coding Projects
 - [agileventures](agileventures.org) - daily online meetings and pairing/mobbing. One time meetings and opportunities for working on non-profit projects.
 - [Code for America](https://www.codeforamerica.org)
 - [Code for Boston](https://www.codeforboston.org)
@@ -36,7 +39,7 @@ All conferences are free unless otherwise noted.
 ## Communities
 
 <a name="coding-meetups"></a>
-#### Coding Meetups: come together to code
+## Coding Meetups: come together to code
 
 See also [volunteering](volunteer.md)
 
@@ -48,11 +51,6 @@ See also [volunteering](volunteer.md)
 - [Technical Skills Share Group](https://www.meetup.com/Technical-Skills-Share-Group/)  For technical professionals in transition.  Help each other by working on projects, sharing the skills they have, and learning new ones.  For coders and non-coders.  Main group meets Wed during the day in Acton.  Subgroups meet every day.  Video conference option available.
 - [Boston Tech Interview Meetup](https://www.meetup.com/Boston-Tech-Interview-Meetup/) - Practice technical interviewing, polish up algorithms knowledge and network with other software engineers looking to move forward in their careers.  Meets monthly.
 
-<a name="international"></a>
-#### softwarecrafters.org (international)
-- [Slack](https://softwarecrafters.slack.com/) - softwarecrafters.org Slack channel
-- [softwarecrafters.org](https://softwarecrafters.org/) - Home page for worldwide software crafters organization.  Lists other worldwide software crafter organizations and events.
 
-#### Compiled Lists of Online Events
-- [Homeferences](https://github.com/homeferences/list)
-- [Free Online Conferences](https://docs.google.com/spreadsheets/d/1IKXAcDoYnWNpuFaDYkn_aplDZ5fRI0bJNWah0rGFO5E/htmlview) (started by Women in Tech Slack Group)
+
+
