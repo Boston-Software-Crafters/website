@@ -46,28 +46,6 @@ sidebar_sort_order: 200
 
 [Gabe Montalvo's Curated List of Coding Katas](https://github.com/gamontal/awesome-katas)
 
-<a name="communities"></a>
-## Communities
-
-<a name="coding-meetups"></a>
-#### Coding Meetups: come together to code
-
-See also [volunteering](volunteer.md)
-
-- [agileventures](agileventures.org) - daily online meetings and pairing/mobbing.  One time meetings and opportunities for working on non-profit projects.
-- [Boston Python](https://www.meetup.com/bostonpython) - Come to project nights to get help on a project, help others, or to discuss Python related topics.  Group also hosts presentations.  Meets monthly.
-- [Boston React](https://www.meetup.com/ReactJS-Boston/events/) - Come to project nights to work on a React project.  Group also hosts presentations.  Meets monthly.
-- [Boston Software Crafters](https://www.meetup.com/Boston-Software-Crafters)
-- [Code for Boston](https://www.meetup.com/code-for-boston) - Volunteer on a real life project for a non-profit.  For coders and non-coders.
-- [Technical Skills Share Group](https://www.meetup.com/Technical-Skills-Share-Group/)  For technical professionals in transition.  Help each other by working on projects, sharing the skills they have, and learning new ones.  For coders and non-coders.  Main group meets Wed during the day in Acton.  Subgroups meet every day.  Video conference option available.
-- [Boston Tech Interview Meetup](https://www.meetup.com/Boston-Tech-Interview-Meetup/) - Practice technical interviewing, polish up algorithms knowledge and network with other software engineers looking to move forward in their careers.  Meets monthly.
-
-<a name="international"></a>
-#### softwarecrafters.org (international)
-- [Slack](https://softwarecrafters.slack.com/) - softwarecrafters.org Slack channel
-- [softwarecrafters.org](https://softwarecrafters.org/) - Home page for worldwide software crafters organization.  Lists other worldwide software crafter organizations and events.
-
-<a name="podcasts"></a>
 ## Podcasts
 [Tech Done Right](https://podcasts.apple.com/us/podcast/tech-done-right/id1195695341) - 72 episodes on how to do technology the right way.
 
