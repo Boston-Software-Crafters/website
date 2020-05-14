@@ -35,9 +35,6 @@ All conferences are free unless otherwise noted.
 - Google [best open soure projects for beginners](https://www.google.com/search?q=best+open+source+projects+for+beginners&oq=best+open+source+projects+for+beginners&aqs=chrome..69i57j69i64.7514j0j4&sourceid=chrome&ie=UTF-8)( to open source projects)
 - [Remote Responsibilities Hackathon](https://letspair.online/): April 3-5 - A remote hackathon focused on building tools to help those that find themselves working, studying, and living remotely full time
 
-<a name="communities"></a>
-## Communities
-
 <a name="coding-meetups"></a>
 ## Coding Meetups: come together to code
 
