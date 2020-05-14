@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
 sidebar_link: true
-sidebar_sort_order: 500
+sidebar_sort_order: 4000
 # permalink: code-of-conduct.html
 ---
 
