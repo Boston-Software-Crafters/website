@@ -1,5 +1,5 @@
 ---
-title: Events and Communities
+title: Events
 sidebar_link: true
 sidebar_sort_order: 100
 # permalink: events.html
