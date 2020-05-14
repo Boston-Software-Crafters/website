@@ -5,11 +5,11 @@ sidebar_sort_order: 100
 # permalink: events.html
 ---
 
-[Boston Software Crafters](#boston-software-crafters)
-[Conferences](#conferences)
-[Collaborative Coding Opportunities](#collab)
-[Coding Meetups](#coding-meetups)
-[Other Compiled Events](#other)
+- [Boston Software Crafters](#boston-software-crafters)
+- [Conferences](#conferences)
+- [Collaborative Coding Opportunities](#collab)
+- [Coding Meetups](#coding-meetups)
+- [Other Compiled Events](#other)
 
 <a name="boston-software-crafters"></a>
 ## Boston Software Crafters
