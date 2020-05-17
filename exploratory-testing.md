@@ -1,4 +1,6 @@
-And here some more recommended resources:
+---
+Title: Exploratory Testing
+---
 
    - [What is Exploratory Testing?](https://medium.com/@maaret.pyhajarvi/what-is-exploratory-testing-88d967060145)
    - [What is Exploratory Testing: the Programmer Edition](https://blog.usejournal.com/what-is-exploratory-testing-the-programmer-edition-881765411f2c)
