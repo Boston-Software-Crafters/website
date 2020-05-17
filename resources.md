@@ -90,13 +90,12 @@ Here are the resources I've spoken about:
 
 And here some more recommended resources:
 
-   - [What is Exploratory Testing?](https://medium.com/@maaret.pyhajarvi/what-is-exploratory-testing-88d967=060145)
+   - [What is Exploratory Testing?](https://medium.com/@maaret.pyhajarvi/what-is-exploratory-testing-88d967060145)
    - [What is Exploratory Testing: the Programmer Edition](https://blog.usejournal.com/what-is-exploratory-testing-the-programmer-edition-881765411f2c)
-   - [Explore Galore! 30 Tips to Supercharge your Exploratory Testing Efforts](https://www.ministryoftesting.com/dojo/lessons/explore-galore-o-supercharge-your-exploratory-testing-efforts)
+   - [Explore Galore! 30 Tips to Supercharge your Exploratory Testing Efforts](https://www.testbuddy.co/blog/what-is-exploratory-testing-an-alternative-to-scripted-testing-and-try-to-break-it-testing)
    - [Power Hour - Exploratory Testing](https://club.ministryoftesting.com/t/power-hour-exploratory-testing/)
    - [What is Exploratory Testing? An Alternative to Scripted Testing and
-   Try To Break It Testing](https://www.testbuddy.co/blog/what-is-exploratory-testing-an-alternativ=
-e-to-scripted-testing-and-try-to-break-it-testing)
+   Try To Break It Testing](https://www.testbuddy.co/blog/what-is-exploratory-testing-an-alternative-to-scripted-testing-and-try-to-break-it-testing)
    - [Why I'm talking to developers about Exploratory Testing](https://blog.scottlogic.com/2019/11/18/talking-to-devs-about-testing.html)
    - [Just because you can automate everything ... doesn't mean you should](http://testsheepnz.blogspot.com/2016/05/just-because-you-can-automate.html)
    - [Manual Testing and Automation: Better Together](https://blog.gurock.com/manual-testing-and-automation-better-together/)
