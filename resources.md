@@ -81,7 +81,6 @@ Here are the resources I've spoken about:
 Here are the resources I've spoken about:
 
    - [Elisabeth Hendrickson: "Explore It!"](https://www.amazon.com/Explore-Increase-Confidence-Exploratory-Testing-ebook/dp/B00I8W50T8/ref=sr_1_1)
-   
    - [James Lyndsay's black box puzzles](http://blackboxpuzzles.workroomprds.com/)
    - [Alan Richardson's practice apps](https://www.eviltester.com/2018/08/compendium-test-apps-1-2.html)
    - [Maaret Arvi's take on "How Would You Test a Text Field?" (blog post](https://visible-quality.blogspot.com/2017/09/how-would-you-test-text-field.html) & [slides](https://de.slideshare.net/maaretp/craftconf-how-would-you-test-a-test-field)
