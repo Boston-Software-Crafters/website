@@ -1,5 +1,5 @@
 ---
-Title: Exploratory Testing
+title: Additional Resources for Exploratory Testing
 ---
 
    - [What is Exploratory Testing?](https://medium.com/@maaret.pyhajarvi/what-is-exploratory-testing-88d967060145)
