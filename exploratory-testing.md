@@ -14,4 +14,5 @@ And here some more recommended resources:
    - [Microheuristics](http://www.schladebeck.de/microheuristics/)
    - [Test Heuristics Cheat Sheet](http://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)
    - [60 Powerful Heuristics to Bust a Testing Groove With](http://dojo-static.ministryoftesting.com/downloads/60PowerfulHeuristicseBook.pdf)
+   
 See [resources](resources.md#exploratory-testing) and [Lisi Hocke's website](https://lisihocke.com) for more resources
