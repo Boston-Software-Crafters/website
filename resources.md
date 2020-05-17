@@ -86,4 +86,4 @@ sidebar_sort_order: 200
    - [A very interesting parking cost calculator](http://www.shino.de/parkcalc/)
    - [Mark Winteringham's practice API "Restful Booker"](https://restful-booker.herokuapp.com/)
 
-See [More Recommendations for Exploratory Testing](exploratory-testing.md) or [Lisi Hocke's website](https://lisihocke.com) for more resources
+See [More Recommendations for Exploratory Testing](exploratory-testing.md) or [Lisi Hocke's website](https://www.lisihocke.com/) for more resources
