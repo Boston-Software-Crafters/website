@@ -15,6 +15,7 @@ sidebar_sort_order: 200
   - [Test Driven Development](#tdd-books)
   - [Coding Techniques](#technique-books)
   - [Refactoring / Legacy Code](#refactoring-legacy-books)
+  - [Exploratory Testing](#exploratory-testing)
 
 <a name="meetup-prep"></a>
 ## Meetup Prep and Environment Setup
@@ -42,6 +43,11 @@ sidebar_sort_order: 200
 ## Katas
 
 [Gabe Montalvo's Curated List of Coding Katas](https://github.com/gamontal/awesome-katas)
+[Exploratory Testing]
+- [Black Box Puzzles](http://blackboxpuzzles.workroomprds.com/)
+- [Evil Tester](https://www.eviltester.com/2018/08/compendium-test-apps-1-2.html)
+- [Parking Calculator](http://www.shino.de/parkcalc/)
+- [Restful Booker](RESTful API)](https://restful-booker.herokuapp.com/)
 
 <a name="podcasts"></a>
 ## Podcasts
@@ -86,4 +92,4 @@ sidebar_sort_order: 200
    - [A very interesting parking cost calculator](http://www.shino.de/parkcalc/)
    - [Mark Winteringham's practice API "Restful Booker"](https://restful-booker.herokuapp.com/)
 
-See [More Recommendations for Exploratory Testing](exploratory-testing.md) or [Lisi Hocke's website](https://www.lisihocke.com/) for more resources
+See [Katas](#katas), [More Recommendations for Exploratory Testing](exploratory-testing.md) or [Lisi Hocke's website](https://www.lisihocke.com/) for more resources
