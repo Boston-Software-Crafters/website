@@ -8,7 +8,7 @@ sidebar_sort_order: 100
 - [Boston Software Crafters](#boston-software-crafters)
 - [Coding Meetups](#coding-meetups) - on-going collaborative projects and project nights
 - [Conferences](#conferences)
-- [Other Compiled Events](#other)
+- [Other Compiled Lists](#other)
 
 <a name="boston-software-crafters"></a>
 ## Boston Software Crafters
@@ -44,7 +44,7 @@ All conferences are free unless otherwise noted.
 - [DEVCONF.us](https://www.devconf.info/us/), Sep 23-25, Boston - Open source conference sponsored by RedHat
 
 <a name="other"></a>
-## Other Compiled Lists of Online Events
+## Other Compiled Lists
 - [Homeferences](https://github.com/homeferences/list)
 - [Free Online Conferences](https://docs.google.com/spreadsheets/d/1IKXAcDoYnWNpuFaDYkn_aplDZ5fRI0bJNWah0rGFO5E/htmlview) (started by Women in Tech Slack Group)
 
