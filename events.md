@@ -50,8 +50,6 @@ All conferences are free unless otherwise noted.
 - [Boston Clean Mobile](https://www.meetup.com/Boston-Clean-Mobile) - every Wednesday alternating project night and discuss Uncle Bob Video
 - [Code for America](https://www.codeforamerica.org)
 - [Code for Boston](https://www.codeforboston.org) - every Tuesday
-- Google [Covid 19 Hackathon](https://www.google.com/search?q=covid+hackathon&oq=covid+hacka&aqs=chrome.0.69i59j69i57j69i60.9995j0j4&sourceid=chrome&ie=UTF-8)
-- Google [best open soure projects for beginners](https://www.google.com/search?q=best+open+source+projects+for+beginners&oq=best+open+source+projects+for+beginners&aqs=chrome..69i57j69i64.7514j0j4&sourceid=chrome&ie=UTF-8)( to open source projects)
 
 <a name="other"></a>
 ## Other Compiled Lists of Online Events
