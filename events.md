@@ -6,9 +6,8 @@ sidebar_sort_order: 100
 ---
 
 - [Boston Software Crafters](#boston-software-crafters)
+- [Coding Meetups](#coding-meetups) - on-going collaborative projects and project nights
 - [Conferences](#conferences)
-- [Collaborative Coding Opportunities](#collab)
-- [Coding Meetups](#coding-meetups)
 - [Other Compiled Events](#other)
 
 <a name="boston-software-crafters"></a>
@@ -43,13 +42,6 @@ All conferences are free unless otherwise noted.
 - [Boston Software Crafters Meetup](https://meetup.com/bostonsoftwarecrafters)
 - [Code Craft Saturdays](com/e/code-craft-saturdays-remote-tickets-86994443723), Sat June 19, 8:30 - 4:30 AN EDT
 - [DEVCONF.us](https://www.devconf.info/us/), Sep 23-25, Boston - Open source conference sponsored by RedHat
-
-<a name="collab"></a>
-## Collaborative Coding Projects and Meetups
-- [agileventures](agileventures.org) - daily online meetings and pairing/mobbing. One time meetings and opportunities for working on non-profit projects.
-- [Boston Clean Mobile](https://www.meetup.com/Boston-Clean-Mobile) - every Wednesday alternating project night and discuss Uncle Bob Video
-- [Code for America](https://www.codeforamerica.org)
-- [Code for Boston](https://www.codeforboston.org) - every Tuesday
 
 <a name="other"></a>
 ## Other Compiled Lists of Online Events
