@@ -15,11 +15,13 @@ sidebar_sort_order: 300
     - [Projects](https://helpwithcovid.com/projects)
     - [U.S. Digital Response](https://www.usdigitalresponse.org/)
     - [Handbook](https://www.usdigitalresponse.org/)(read, contribute, and spread the word)
+    - Google [Covid 19 Hackathon](https://www.google.com/search?q=covid+hackathon)
   - [volunteermatch](volunteermatch.org)
   - [Donate Code](https://www.donatecode.com/)
   - [catchafire](https://www.catchafire.org/)
   - [#charity](https://hashtagcharity.org/)
   - [reallocate](https://reallocate.org/) - projects and hacktivations/hackathons
+- Google [best open soure projects for beginners](https://www.google.com/search?q=best+open+source+projects+for+beginners&oq=best+open+source+projects+for+beginners&aqs=chrome..69i57j69i64.7514j0j4&sourceid=chrome&ie=UTF-8)( to open source projects)
 
 
 **Teaching**
