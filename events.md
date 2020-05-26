@@ -12,10 +12,7 @@ sidebar_sort_order: 100
 
 <a name="boston-software-crafters"></a>
 ## Boston Software Crafters
-Boston Software Crafters runs one events on second Monday of the month, with some exceptions.  Events will be on line until the situation
-on with COVID-19 resolves.
-
-Specific events are listed on the [Boston Software Crafters meetup page](http://meetup.com/bostonsoftwarecrafters).  RSVP there to be assured a spot.
+Boston Software Crafters runs an events on the second Monday of the month.  Specific events are listed on the [Boston Software Crafters meetup page](http://meetup.com/bostonsoftwarecrafters).  RSVP there to be assured a spot.
 
 <a name="coding-meetups"></a>
 ## Coding Meetups: come together to code
