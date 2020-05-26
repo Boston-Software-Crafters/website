@@ -4,6 +4,7 @@ sidebar_link: true
 sidebar_sort_order: 300
 # permalink: volunteering.html
 ---
+
 - [agileventures](agileventures.org) - daily online meetings and pairing/mobbing.  One time meetings and opportunities for working on non-profit projects.
 - [Code for America](https://www.codeforamerica.org)
 - [Code for Boston](https://www.meetup.com/code-for-boston) - Volunteer on a project to deliver an application or other technology to a non-profit.  For coders and non-coders.  Meets every Tuesday.
