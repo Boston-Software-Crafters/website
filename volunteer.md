@@ -5,6 +5,7 @@ sidebar_sort_order: 300
 # permalink: volunteering.html
 ---
 
+**Software Development (all aspects)**
 - [agileventures](agileventures.org) - daily online meetings and pairing/mobbing.  One time meetings and opportunities for working on non-profit projects.
 - [Code for America](https://www.codeforamerica.org)
 - [Code for Boston](https://www.meetup.com/code-for-boston) - Volunteer on a project to deliver an application or other technology to a non-profit.  For coders and non-coders.  Meets every Tuesday.
@@ -21,7 +22,7 @@ sidebar_sort_order: 300
   - [reallocate](https://reallocate.org/) - projects and hacktivations/hackathons
 
 
-**Teaching Opportunities**
+**Teaching**
 - [Girls Who Code](https://girlswhocode.com/)
 - [Black Girls Code](http://www.blackgirlscode.com)
 - [Charles River Coder Dojo](https://charlesrivercoderdojo.wordpress.com/about.) (kids)
