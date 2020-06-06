@@ -6,7 +6,7 @@ sidebar_sort_order: 300
 ---
 **Events**
 - [Helpful Hackathon, 6/12-6/21](https://www.eventbrite.com/e/helpful-hackathon--tickets-106035535140?aff=ebdssbonlinesearch)
-- [Call for Code, June 19(https://www.eventbrite.com/e/call-for-code-2020-june-tickets-100879818252?aff=ebdssbonlinesearch)
+- [Call for Code, 6/19](https://www.eventbrite.com/e/call-for-code-2020-june-tickets-100879818252?aff=ebdssbonlinesearch)
 **Software Development (all aspects)**
 - [agileventures](agileventures.org): daily online meetings and pairing/mobbing.  One time meetings and opportunities for working on non-profit projects.
 - [Code for America](https://www.codeforamerica.org)
