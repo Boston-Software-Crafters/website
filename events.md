@@ -13,8 +13,8 @@ sidebar_sort_order: 100
 
 <a name="covid-hackathons"></a>
 ## COVID 19 Related Hackathons
-- [Helpful Hackathon, 6/12 8PM -6/21 4PM](https://www.eventbrite.com/e/helpful-hackathon--tickets-106035535140)
-- [Call for Code, 6/19 8PM - 6/21 3AM](https://www.eventbrite.com/e/call-for-code-2020-june-tickets-100879818252)
+- [Helpful Hackathon, June 12 8PM - June 21 4PM](https://www.eventbrite.com/e/helpful-hackathon--tickets-106035535140)
+- [Call for Code, June 19 8PM - June 21 3AM](https://www.eventbrite.com/e/call-for-code-2020-june-tickets-100879818252)
 
 <a name="boston-software-crafters"></a>
 ## Boston Software Crafters
@@ -30,6 +30,7 @@ See also [volunteering](volunteer.md)
 - [Boston Python](https://www.meetup.com/bostonpython) - Come to project nights to get help on a project, help others, or to discuss Python related topics.  Group also hosts presentations.  Meets monthly.  **monthly - schedule varies**
 - [Boston Software Crafters](https://www.meetup.com/Boston-Software-Crafters) **second Monday of the month**
 - [Code for Boston](https://www.meetup.com/code-for-boston) - Volunteer on a real life project for a non-profit.  For coders and non-coders. **every Tuesday**
+- [Mob Programming Workshop](https://www.meetup.com/AgilePDX-User-Group-Portland-Metro/events/271002239/), **Tuesday, June 9, 6-9PM**
 - [Technical Skills Share Group](https://www.meetup.com/Technical-Skills-Share-Group/)  For technical professionals in transition.  Help each other by working on projects, sharing the skills they have, and learning new ones.  For coders and non-coders.  Main group meets Wed during the day.  Subgroups meet every day.  Video conference option available. **every Wednesday during the day**
 
 <a name="conferences"></a>
