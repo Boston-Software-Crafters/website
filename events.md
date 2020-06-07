@@ -4,6 +4,7 @@ sidebar_link: true
 sidebar_sort_order: 100
 # permalink: events.html
 ---
+## Table of Contents
 - [COVID-19 Related Hackathons](#covid-hackathons)
 - [Boston Software Crafters](#boston-software-crafters)
 - [Coding Meetups](#coding-meetups) - on-going collaborative projects and project nights
@@ -39,6 +40,7 @@ All conferences are free unless otherwise noted.
 - [Code Craft Saturdays](https://eventbrite.com/e/code-craft-saturdays-remote-tickets-86994443723), June 19, 11 AM - 7 PM EDT
 - [Code Craft Sundays](https://www.eventbrite.com/e/code-craft-sundays-remote-tickets-87050240613), June 20, 11 AM - 7 PM EDT
 - [Mob Programming Gathering (expert panel)](https://mobprogrammingnewengland.com), June 25, 12-2:30
+- [Global Day of Code Retreat](https://www.eventbrite.com/e/global-day-of-mobrereat-for-the-americas-and-friends-tickets-108575391920)
 - [DEVCONF.us](https://www.devconf.info/us/), Sep 23-25, Boston - Open source conference sponsored by RedHat
 
 <a name="other"></a>
