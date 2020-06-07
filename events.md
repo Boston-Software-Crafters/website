@@ -12,8 +12,8 @@ sidebar_sort_order: 100
 
 <a name="covid-hackathons"></a>
 ## COVID 19 Related Hackathons
-- [Helpful Hackathon, 6/12-6/21](https://www.eventbrite.com/e/helpful-hackathon--tickets-106035535140?aff=ebdssbonlinesearch)
-- [Call for Code, 6/19](https://www.eventbrite.com/e/call-for-code-2020-june-tickets-100879818252?aff=ebdssbonlinesearch)
+- [Helpful Hackathon, 6/12 8PM -6/21 4PM](https://www.eventbrite.com/e/helpful-hackathon--tickets-106035535140)
+- [Call for Code, 6/19 8PM - 6/21 3AM](https://www.eventbrite.com/e/call-for-code-2020-june-tickets-100879818252)
 
 <a name="boston-software-crafters"></a>
 ## Boston Software Crafters
