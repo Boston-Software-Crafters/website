@@ -7,6 +7,7 @@ sidebar_sort_order: 300
 
 
 **Events**
+
     - [Helpful Hackathon, 6/12 8PM-6/21 4PM](https://www.eventbrite.com/e/helpful-hackathon--tickets-106035535140)
     - [Call for Code Hackathon, 6/19 8PM-6/21 3AM](https://www.eventbrite.com/e/call-for-code-2020-june-tickets-100879818252)
     - [agileventures](agileventures.org): daily online meetings and pairing/mobbing.  One time meetings and opportunities for working on non-profit projects.
