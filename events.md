@@ -30,15 +30,15 @@ See also [volunteering](volunteer.md)
 - [Boston Software Crafters](https://www.meetup.com/Boston-Software-Crafters) **second Monday of the month**
 - [Code for Boston](https://www.meetup.com/code-for-boston) - Volunteer on a real life project for a non-profit.  For coders and non-coders. **every Tuesday**
 - [Technical Skills Share Group](https://www.meetup.com/Technical-Skills-Share-Group/)  For technical professionals in transition.  Help each other by working on projects, sharing the skills they have, and learning new ones.  For coders and non-coders.  Main group meets Wed during the day.  Subgroups meet every day.  Video conference option available. **every Wednesday during the day**
-- 
 
 <a name="conferences"></a>
 ## Conferences
 All conferences are free unless otherwise noted.
 
 - [MongoDB World 2020](https://www.mongodb.com/world), June 9-10, online (rescheduled from May 4-5)
-- [Boston Software Crafters Meetup](https://meetup.com/bostonsoftwarecrafters)
-- [Code Craft Saturdays](com/e/code-craft-saturdays-remote-tickets-86994443723), Sat June 19, 8:30 - 4:30 AN EDT
+- [Code Craft Saturdays](https://eventbrite.com/e/code-craft-saturdays-remote-tickets-86994443723), June 19, 11 AM - 7 PM EDT
+- [Code Craft Sundays](https://www.eventbrite.com/e/code-craft-sundays-remote-tickets-87050240613), June 20, 11 AM - 7 PM EDT
+- [Mob Programming Gathering (expert panel)](https://mobprogrammingnewengland.com), June 25, 12-2:30
 - [DEVCONF.us](https://www.devconf.info/us/), Sep 23-25, Boston - Open source conference sponsored by RedHat
 
 <a name="other"></a>
