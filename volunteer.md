@@ -21,7 +21,7 @@ sidebar_sort_order: 300
     - [Handbook](https://www.usdigitalresponse.org/)(read, contribute, and spread the word)
     - Google [Covid 19 Hackathon](https://www.google.com/search?q=covid+hackathon)
   - Other:
-    - [volunteermatch](volunteermatch.org)
+    - [volunteermatch](https://volunteermatch.org)
     - [Donate Code](https://www.donatecode.com/)
     - [catchafire](https://www.catchafire.org/)
     - [#charity](https://hashtagcharity.org/)
