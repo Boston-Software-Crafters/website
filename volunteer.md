@@ -10,7 +10,7 @@ sidebar_sort_order: 300
 
 - [Helpful Hackathon, 6/12 8PM - 6/21 4PM](https://www.eventbrite.com/e/helpful-hackathon--tickets-106035535140)
 - [Call for Code Hackathon, 6/19 8PM - 6/21 3AM](https://www.eventbrite.com/e/call-for-code-2020-june-tickets-100879818252)
-- [agileventures](agileventures.org): daily online meetings and pairing/mobbing.  One time meetings and opportunities for working on non-profit projects.
+- [agileventures](https://www.agileventures.org): daily online meetings and pairing/mobbing.  One time meetings and opportunities for working on non-profit projects.
 - [Code for Boston](https://www.meetup.com/code-for-boston): Volunteer on a project to deliver an application or other technology to a non-profit.  For coders and non-coders.  Meets every Tuesday.
     - Part of [Code for America](https://www.codeforamerica.org)
 - Organizations that match eager developers with projects or non-profits
@@ -22,7 +22,7 @@ sidebar_sort_order: 300
     - [Triage Open Source Issues, Squash COVID-19](https://www.codetriage.com/)
     - Google [Covid 19 Hackathon](https://www.google.com/search?q=covid+hackathon)
   - Other:
-    - [agileventures](agileventures.org): daily online meetings and pairing/mobbing.  One time meetings and opportunities for working on non-profit projects.
+    - [agileventures](https://www.agileventures.org): daily online meetings and pairing/mobbing.  One time meetings and opportunities for working on non-profit projects.
     - [Up for Grabs: Open Source Projects for New Contributors](https://up-for-grabs.net)
     - [volunteermatch](https://volunteermatch.org)
     - [Donate Code](https://www.donatecode.com/)
