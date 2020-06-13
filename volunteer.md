@@ -18,9 +18,11 @@ sidebar_sort_order: 300
     - [Helpful Engineering](https://www.helpfulengineering.org/)
     - [Projects](https://helpwithcovid.com/projects)
     - [U.S. Digital Response](https://www.usdigitalresponse.org/)
-    - [Handbook](https://www.usdigitalresponse.org/)(read, contribute, and spread the word)
+    - [Handbook](https://www.usdigitalresponse.org/) (read, contribute, and spread the word)
+    - [Triage Open Source Issues, Squash COVID-19](https://www.codetriage.com/)
     - Google [Covid 19 Hackathon](https://www.google.com/search?q=covid+hackathon)
   - Other:
+    - [Up for Grabs: Open Source Projects for New Contributors](https://up-for-grabs.net)
     - [volunteermatch](https://volunteermatch.org)
     - [Donate Code](https://www.donatecode.com/)
     - [catchafire](https://www.catchafire.org/)
