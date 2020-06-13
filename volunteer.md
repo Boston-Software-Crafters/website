@@ -22,6 +22,7 @@ sidebar_sort_order: 300
     - [Triage Open Source Issues, Squash COVID-19](https://www.codetriage.com/)
     - Google [Covid 19 Hackathon](https://www.google.com/search?q=covid+hackathon)
   - Other:
+    - [agileventures](agileventures.org): daily online meetings and pairing/mobbing.  One time meetings and opportunities for working on non-profit projects.
     - [Up for Grabs: Open Source Projects for New Contributors](https://up-for-grabs.net)
     - [volunteermatch](https://volunteermatch.org)
     - [Donate Code](https://www.donatecode.com/)
