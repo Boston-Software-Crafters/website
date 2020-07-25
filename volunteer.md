@@ -27,7 +27,7 @@ sidebar_sort_order: 300
     - [catchafire](https://www.catchafire.org/)
     - [#charity](https://hashtagcharity.org/)
     - [reallocate](https://reallocate.org/) - projects and hacktivations/hackathons
-    - Google [best open soure projects for beginners](https://www.google.com/search?q=best+open+source+projects+for+beginners&oq=best+open+source+projects+for+beginner)( to open source projects)
+    - Google [best open soure projects for beginners](https://www.google.com/search?q=best+open+source+projects+for+beginners&oq=best+open+source+projects+for+beginner)
 
 **Teaching**
 - [Girls Who Code](https://girlswhocode.com/)
