@@ -11,8 +11,6 @@ sidebar_sort_order: 300
 - [agileventures](https://www.agileventures.org): daily online meetings and pairing/mobbing.  One time meetings and opportunities for working on non-profit projects.
 - [Code for Boston](https://www.meetup.com/code-for-boston): Volunteer on a project to deliver an application or other technology to a non-profit.  For coders and non-coders.  Meets every Tuesday.
     - Part of [Code for America](https://www.codeforamerica.org)
-- [Helpful Hackathon, 6/12 8PM - 6/21 4PM](https://www.eventbrite.com/e/helpful-hackathon--tickets-106035535140)
-- [Call for Code Hackathon, 6/19 8PM - 6/21 3AM](https://www.eventbrite.com/e/call-for-code-2020-june-tickets-100879818252)
 - Organizations that match eager developers with projects or non-profits
   - COVID19:
     - [Helpful Engineering](https://www.helpfulengineering.org/)
