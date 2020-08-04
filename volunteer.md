@@ -29,7 +29,7 @@ sidebar_sort_order: 300
     - [reallocate](https://reallocate.org/) - projects and hacktivations/hackathons
     - Google [best open soure projects for beginners](https://www.google.com/search?q=best+open+source+projects+for+beginners&oq=best+open+source+projects+for+beginner)
 
-**Teaching**
+**Teaching!**
 - [Girls Who Code](https://girlswhocode.com/)
 - [Black Girls Code](http://www.blackgirlscode.com)
 - [Charles River Coder Dojo](https://charlesrivercoderdojo.wordpress.com/about.) (kids)
