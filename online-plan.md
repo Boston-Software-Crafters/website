@@ -34,7 +34,7 @@ Paul R
 #### ***Facilitators***
 | Template Author|Language|IDE|Status|
 |---|---|---|---|
-| Alex|   |   |
+| Alex|Javascript|VSCode|
 | Eric|Python|   |
 | Ethan|JavaScript|VSCode|
 | Danil|   |   |
