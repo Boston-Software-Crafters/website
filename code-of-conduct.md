@@ -5,7 +5,7 @@ sidebar_sort_order: 4000
 # permalink: code-of-conduct.html
 ---
 
-Boston Software Crafters events are intended for networking and collaboration in the developer community.
+Boston Software Crafters events are intended for networking and collaboration in the developer community..
 
 We value the participation of each member of the Software Crafters community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees at all Boston Software Crafters events, whether officially sponsored by Boston Software Crafters or not.
 
