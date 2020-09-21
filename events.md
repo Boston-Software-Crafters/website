@@ -26,10 +26,11 @@ Boston Software Crafters runs an events on the second Monday of the month.  Spec
 See also [volunteering](volunteer.md)
 
 - [agileventures](agileventures.org) - daily online meetings and pairing/mobbing.  One time meetings and opportunities for working on non-profit projects.  **Daily different times**
-- [Boston Clean Mobile](https://www.meetup.com/Boston-Clean-Mobile) - every Wednesday alternating project night and discuss Uncle Bob Video on best practices **every Wednesday**
+- [Boston Clean Mobile](https://www.meetup.com/Boston-Clean-Mobile) - every Wednesday alternating project night and discuss Uncle Bob Video on best practices **every Wednesday 6-9 EDT**
 - [Boston Python](https://www.meetup.com/bostonpython) - Come to project nights to get help on a project, help others, or to discuss Python related topics.  Group also hosts presentations.  Meets monthly.  **monthly - schedule varies**
-- [Boston Software Crafters](https://www.meetup.com/Boston-Software-Crafters) **second Monday of the month**
-- [Code for Boston](https://www.meetup.com/code-for-boston) - Volunteer on a real life project for a non-profit.  For coders and non-coders. **every Tuesday**
+- [New York City Python](https://www.meetup.com/nycpython/) **every Wednesday 6-9 PM EDT**
+- [Boston Software Crafters](https://www.meetup.com/Boston-Software-Crafters) **second Monday of the month, 5:30-9 EDT**
+- [Code for Boston](https://www.meetup.com/code-for-boston) - Volunteer on a real life project for a non-profit.  For coders and non-coders. **every Tuesday* 6-9 PM EDT*
 - [Mob Programming Workshop](https://www.meetup.com/AgilePDX-User-Group-Portland-Metro/events/271002239/), **Tuesday, June 9, 6-9PM**
 - [Technical Skills Share Group](https://www.meetup.com/Technical-Skills-Share-Group/)  For technical professionals in transition.  Help each other by working on projects, sharing the skills they have, and learning new ones.  For coders and non-coders.  Main group meets Wed during the day.  Subgroups meet every day.  Video conference option available. **every Wednesday during the day**
 
@@ -37,12 +38,10 @@ See also [volunteering](volunteer.md)
 ## Conferences
 All conferences are free unless otherwise noted.
 
-- [MongoDB World 2020](https://www.mongodb.com/world), June 9-10, online (rescheduled from May 4-5)
-- [Code Craft Saturdays](https://eventbrite.com/e/code-craft-saturdays-remote-tickets-86994443723), June 19, 11 AM - 7 PM EDT
-- [Code Craft Sundays](https://www.eventbrite.com/e/code-craft-sundays-remote-tickets-87050240613), June 20, 11 AM - 7 PM EDT
-- [Mob Programming Gathering (expert panel)](https://mobprogrammingnewengland.com), June 25, 12-2:30
-- [Global Day of Code Retreat](https://www.eventbrite.com/e/global-day-of-mobrereat-for-the-americas-and-friends-tickets-108575391920)
-- [DEVCONF.us](https://www.devconf.info/us/), Sep 23-25, Boston - Open source conference sponsored by RedHat
+- [Code Craft Saturdays Oct 10, Nov 21, Dec 12](https://eventbrite.com/e/code-craft-saturdays-remote-tickets-86994443723), June 19, 11 AM - 7 PM EDT
+- [Code Craft Sundays Oct 11, Nov 15, Dec 13](https://www.eventbrite.com/e/code-craft-sundays-remote-tickets-87050240613), June 20, 11 AM - 7 PM EDT
+- [Mob Programming: How We Do It (expert panel)](https://mobprogrammingnewengland.com), Sept 23, 9-12 EDT
+
 
 <a name="other"></a>
 ## Other Compiled Lists
