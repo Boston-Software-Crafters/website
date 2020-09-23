@@ -7,7 +7,7 @@ sidebar_sort_order: 100
 ## Table of Contents
 - [COVID-19 Related Hackathons](#covid-hackathons)
 - [Boston Software Crafters](#boston-software-crafters)
-- [Coding Meetups](#coding-meetups) - on-going collaborative projects and project nights
+- [Coding Meetupsand User Groups](#coding-meetups) - on-going collaborative projects and project nights
 - [Conferences](#conferences)
 - [Other Compiled Lists](#other)
 
@@ -21,11 +21,12 @@ sidebar_sort_order: 100
 Boston Software Crafters runs an events on the second Monday of the month.  Specific events are listed on the [Boston Software Crafters meetup page](http://meetup.com/bostonsoftwarecrafters).  RSVP there to be assured a spot.
 
 <a name="coding-meetups"></a>
-## Coding Meetups: come together to code
+## Coding Meetups and User Groups: come together to code
 
 See also [volunteering](volunteer.md)
 
 - [agileventures](agileventures.org) - daily online meetings and pairing/mobbing.  One time meetings and opportunities for working on non-profit projects.  **Daily different times**
+- [Code Buddies](codebuddies.org] - CodeBuddies is a very active global community of people who help each other become better at software development through conversations on Slack, peer-to-peer organized study groups, virtual hangouts, and member organized technical sessions.
 - [Boston Clean Mobile](https://www.meetup.com/Boston-Clean-Mobile) - every Wednesday alternating project night and discuss Uncle Bob Video on best practices **every Wednesday 6-9 EDT**
 - [Boston Python](https://www.meetup.com/bostonpython) - Come to project nights to get help on a project, help others, or to discuss Python related topics.  Group also hosts presentations.  Meets monthly.  **monthly - schedule varies**
 - [New York City Python](https://www.meetup.com/nycpython/) **every Wednesday 6-9 PM EDT**
