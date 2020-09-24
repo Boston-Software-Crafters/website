@@ -28,7 +28,6 @@ See also [volunteering](volunteer.md)
 - [agileventures](https://www.agileventures.org) - daily online meetings and pairing/mobbing.  One time meetings and opportunities for working on non-profit projects.  **Daily different times**
 - [Code Buddies](https://codebuddies.org) - CodeBuddies is a very active global community of people who help each other become better at software development through conversations on Slack, peer-to-peer organized study groups, virtual hangouts, and member organized technical sessions.
 - [Boston Clean Mobile](https://www.meetup.com/Boston-Clean-Mobile) - every Wednesday alternating project night and discuss Uncle Bob Video on best practices **every Wednesday 6-9 EDT**
-- Monday, October 5, 2020 Lean Poker Express (joint with Berlin, Cologne, Lübeck, Munich and Vienna)
 - [Mob Programming on Open Source Software](https://www.meetup.com/Mob-Programming-on-Open-Source-Software) **days vary usually 1-4 EDT**
 - [Boston Python](https://www.meetup.com/bostonpython) - Come to project nights to get help on a project, help others, or to discuss Python related topics.  Group also hosts presentations.  Meets monthly.  **monthly - schedule varies**
 - [New York City Python](https://www.meetup.com/nycpython/) **every Wednesday 6-9 PM EDT**
