@@ -39,6 +39,7 @@ See also [volunteering](volunteer.md)
 ## Conferences
 All conferences are free unless otherwise noted.
 
+- [Open Space conference for Facilitators and Changemakers, ticket price is whatever you want](https://www.eventbrite.com/e/flourishing-futures-a-3-day-global-event-for-facilitators-changemakers-tickets-121065511203), Nov 6-9
 - [Code Craft Saturdays Oct 10, Nov 21, Dec 12](https://eventbrite.com/e/code-craft-saturdays-remote-tickets-86994443723), June 19, 11 AM - 7 PM EDT
 - [Code Craft Sundays Oct 11, Nov 15, Dec 13](https://www.eventbrite.com/e/code-craft-sundays-remote-tickets-87050240613), June 20, 11 AM - 7 PM EDT
 - [Mob Programming: How We Do It (expert panel)](https://mobprogrammingnewengland.com), Sept 23, 9-12 EDT
