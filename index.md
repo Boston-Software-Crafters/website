@@ -2,8 +2,9 @@
 title: Home
 ---
 ## ANNOUNCEMENTS
-- ***NEXT MEETING ONLINE*** - Our next meeting is on May 11.  Details and registration are on [meetup](https://www.meetup.com/Boston-Software-Crafters/).
 - ***JOIN US ON SLACK [![](assets/images/Slack_Mark_Web.png){: .left-icon}](slack.md)*** - Click [here](slack.md).
+- Sign up to pair with others (email ethanstrominger2@gmail.com to post your link here)
+  - calend.ly/ethanstrominger/codewithme
 
 ## ABOUT BOSTON SOFTWARE CRAFTERS
 Boston Software Crafters is a large and vibrant Software Crafters user group in the Boston area.  We meet the second Monday of the month. See [meetup.com/boston-software-crafters](https://meetup.com/Boston-Software-Crafters) for more details on the next event and to sign up.
