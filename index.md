@@ -2,6 +2,7 @@
 title: Home
 ---
 ## ANNOUNCEMENTS
+- Check out WeDoTDD.com for a list of companies that do TDD.  Companies must complete an interview to be added to the list.  Join their Slack channel and community.  This group has been added to our list of Events and Groups.
 - ***JOIN US ON SLACK [![](assets/images/Slack_Mark_Web.png){: .left-icon}](slack.md)*** - Click [here](slack.md).
 - Sign up to pair with others (email ethanstrominger2@gmail.com to post your link here)
   - calend.ly/ethanstrominger/codewithme
