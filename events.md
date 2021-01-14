@@ -21,7 +21,7 @@ sidebar_sort_order: 100
 See also [volunteering](volunteer.md)
 
 - [agileventures](https://www.agileventures.org) - daily online meetings and pairing/mobbing.  One time meetings and opportunities for working on non-profit projects.  **Daily different times**
-- [Boston Clean Mobile](https://www.meetup.com/Boston-Clean-Mobile) - every Wednesday alternating project night and discuss Uncle Bob Video on best practices **every Wednesday 6-9 EDT**
+- [Informal Clean Code with Video](https://www.meetup.com/Boston-Clean-Mobile) - every Monday discuss Uncle Bob Video on best practices **every Wednesday 6-9 EDT**
 - [Boston Python](https://www.meetup.com/bostonpython) - Come to project nights to get help on a project, help others, or to discuss Python related topics.  Group also hosts presentations.  Meets monthly.  **monthly - schedule varies**
 - [Boston Software Crafters](https://www.meetup.com/Boston-Software-Crafters) **second Monday of the month, 5:30-9 EDT**
 - [Code for Boston](https://www.meetup.com/code-for-boston) - Volunteer on a real life project for a non-profit.  For coders and non-coders. **every Tuesday* 6-9 PM EDT*
