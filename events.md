@@ -19,6 +19,8 @@ sidebar_sort_order: 100
 ## Coding Meetups and User Groups: come together to code
 
 See also [volunteering](volunteer.md)
+- [Munchen Software Crafters Community](https://www.meetup.com/munich-software-craft-community/)
+- [Mob Programming Paris](https://www.meetup.com/paris-mob-programming)
 
 - [agileventures](https://www.agileventures.org) - daily online meetings and pairing/mobbing.  One time meetings and opportunities for working on non-profit projects.  **Daily different times**
 - [Informal Clean Code with Video](https://www.meetup.com/Boston-Clean-Mobile) - every Monday discuss Uncle Bob Video on best practices **every Wednesday 6-9 EDT**
