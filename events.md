@@ -19,8 +19,6 @@ sidebar_sort_order: 100
 ## Coding Meetups and User Groups: come together to code
 
 See also [volunteering](volunteer.md)
-- [Munchen Software Crafters Community](https://www.meetup.com/munich-software-craft-community/)
-- [Mob Programming Paris](https://www.meetup.com/paris-mob-programming)
 
 - [agileventures](https://www.agileventures.org) - daily online meetings and pairing/mobbing.  One time meetings and opportunities for working on non-profit projects.  **Daily different times**
 - [Informal Clean Code with Video](https://www.meetup.com/Boston-Clean-Mobile) - every Monday discuss Uncle Bob Video on best practices **every Wednesday 6-9 EDT**
@@ -31,6 +29,13 @@ See also [volunteering](volunteer.md)
 - [New York City Python](https://www.meetup.com/nycpython/) **every Wednesday 6-9 PM EDT**
 - [Technical Skills Share Group](https://www.meetup.com/Technical-Skills-Share-Group/)  For technical professionals in transition.  Help each other by working on projects, sharing the skills they have, and learning new ones.  For coders and non-coders.  Main group meets Wed during the day.  Subgroups meet every day.  Video conference option available. **every Wednesday during the day**
 - [WeDoTDD.com](https://wedotdd.com) - Slack group and website that lists companies that do Test Driven Development.  To get on the list, a company must complete an interview.
+
+<a name="europe"></a>
+## European User Groups
+- [Software Crafters](https://softwarecrafters.org)
+- [Munchen Software Crafters Community](https://www.meetup.com/munich-software-craft-community/)
+- [Mob Programming Paris](https://www.meetup.com/paris-mob-programming)
+- [Mob Programming on Open Source Software](https://www.meetup.com/Mob-Programming-on-Open-Source-Software/)
 
 <a name="conferences"></a>
 ## Conferences
