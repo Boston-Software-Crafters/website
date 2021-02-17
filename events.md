@@ -9,7 +9,7 @@ sidebar_sort_order: 100
 - [Coding Meetupsand User Groups](#coding-meetups) - on-going collaborative projects and project nights
   - [Umbrella Organizations](#umb)  
   - [East Coast Evening Groups](#eastcoast)
-  - [European User Groups](#European)
+  - [European User Groups](#europe)
   - [Weekend Groups](#weekend)
   - [Other User Groups](#other)
 - [Conferences](#conferences)
@@ -30,7 +30,7 @@ See also [volunteering](volunteer.md)
 - [Code for All](https://www.codeforall.org/members) List of Civic Tech organizations around the world.
 - [Code for America](https://www.codeforamerica.org) Civic Tech organization with over 50 branches across the US that work on applications and civic tech 
 
-<a name="eastcost"></a>
+<a name="eastcoast"></a>
 ### East Coast Evening Meetups
 - [Boston Python](https://www.meetup.com/bostonpython) - Come to project nights to get help on a project, help others, or to discuss Python related topics.  Group also hosts presentations.  Meets monthly.  **monthly - schedule varies**
 projects for non-profits, government agencies, and the general good.
