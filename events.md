@@ -5,7 +5,6 @@ sidebar_sort_order: 100
 # permalink: events.html
 ---
 ## Table of Contents
-- [COVID-19 Related Hackathons](#covid-hackathons)
 - [Coding Meetupsand User Groups](#coding-meetups) - on-going collaborative projects and project nights
   - [Umbrella Organizations](#umb)  
   - [East Coast Evening Groups](#eastcoast)
@@ -15,10 +14,7 @@ sidebar_sort_order: 100
 - [Conferences](#conferences)
 - [Other Compiled Lists](#other)s
 
-<a name="covid-hackathons"></a>
-## COVID 19 Related Hackathons
-- [Helpful Hackathon, June 12 8PM - June 21 4PM](https://www.eventbrite.com/e/helpful-hackathon--tickets-106035535140)
-- [Call for Code, June 19 8PM - June 21 3AM](https://www.eventbrite.com/e/call-for-code-2020-june-tickets-100879818252)
+### *** See also [volunteering](volunteer.md) ***
 
 <a name="coding-meetups"></a>
 ## Coding Meetups and User Groups: come together to code
@@ -29,6 +25,7 @@ See also [volunteering](volunteer.md)
 ### Umbrella Organizations
 - [Code for All](https://www.codeforall.org/members) List of Civic Tech organizations around the world.
 - [Code for America](https://www.codeforamerica.org) Civic Tech organization with over 50 branches across the US that work on applications and civic tech 
+- [Software Crafters](https://softwarecrafters.org)
 
 <a name="eastcoast"></a>
 ### East Coast Evening Meetups
