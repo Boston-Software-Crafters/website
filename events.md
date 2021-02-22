@@ -56,7 +56,7 @@ All conferences are free unless otherwise noted.
 - [Code Buddies](https://codebuddies.org) - CodeBuddies is a very active global community of people who help each other become better at software development through conversations on Slack, peer-to-peer organized study groups, virtual hangouts, and member organized technical sessions.
 - [Technical Skills Share Group](https://www.meetup.com/Technical-Skills-Share-Group/)  For technical professionals in transition.  Help each other by working on projects, sharing the skills they have, and learning new ones.  For coders and non-coders.  Main group meets Wed during the day.  Subgroups meet every day.  Video conference option available. **every Wednesday during the day**
 - [WeDoTDD.com](https://wedotdd.com) - Slack group and website that lists companies that do Test Driven Development.  To get on the list, a company must complete an interview.
-- [Code Coffee](https://www.meetup.com/code-coffee) **every Fri 11AM EDT)
+- [Code Coffee](https://www.meetup.com/code-coffee) **every Fri 11AM EDT)**
 
 <a name="other"></a>
 ## Other Compiled Lists
