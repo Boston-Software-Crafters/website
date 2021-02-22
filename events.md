@@ -47,7 +47,7 @@ projects for non-profits, government agencies, and the general good.
 <a name="weekend"></a>
 ## Weekend Events and Groups
 All conferences are free unless otherwise noted.
-- [Code Coffee](https://www.meetup.com/Code-Coffee) **Every Sun 3-6 EDT**
+- [Coffee Code](https://www.meetup.com/Coffee-Code) **Every Sun 3-6 EDT**
 - [Code Craft Saturdays](https://eventbrite.com/e/code-craft-saturdays-remote-tickets-86994443723) **Second Saturday of the month**
 - [Code Craft Sundays](https://www.eventbrite.com/e/code-craft-sundays-remote-tickets-87050240613) **Second Sunday of the month**
 
@@ -56,7 +56,7 @@ All conferences are free unless otherwise noted.
 - [Code Buddies](https://codebuddies.org) - CodeBuddies is a very active global community of people who help each other become better at software development through conversations on Slack, peer-to-peer organized study groups, virtual hangouts, and member organized technical sessions.
 - [Technical Skills Share Group](https://www.meetup.com/Technical-Skills-Share-Group/)  For technical professionals in transition.  Help each other by working on projects, sharing the skills they have, and learning new ones.  For coders and non-coders.  Main group meets Wed during the day.  Subgroups meet every day.  Video conference option available. **every Wednesday during the day**
 - [WeDoTDD.com](https://wedotdd.com) - Slack group and website that lists companies that do Test Driven Development.  To get on the list, a company must complete an interview.
-
+- [Code Coffee](https://www.meetup.com/code-coffee) **every Fri 11AM EDT)
 
 <a name="other"></a>
 ## Other Compiled Lists
