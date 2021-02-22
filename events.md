@@ -47,9 +47,9 @@ projects for non-profits, government agencies, and the general good.
 <a name="weekend"></a>
 ## Weekend Events and Groups
 All conferences are free unless otherwise noted.
-- [Code Coffee](https://www.meetup.com/Code-Cofee) **Every Sun 3-6 EDT**
-- [Code Craft Saturdays Oct 10, Nov 21, Dec 12](https://eventbrite.com/e/code-craft-saturdays-remote-tickets-86994443723) **Second Saturday of the month**
-- [Code Craft Sundays Oct 11, Nov 15, Dec 13](https://www.eventbrite.com/e/code-craft-sundays-remote-tickets-87050240613) **Second Sunday of the month**
+- [Code Coffee](https://www.meetup.com/Code-Coffee) **Every Sun 3-6 EDT**
+- [Code Craft Saturdays](https://eventbrite.com/e/code-craft-saturdays-remote-tickets-86994443723) **Second Saturday of the month**
+- [Code Craft Sundays](https://www.eventbrite.com/e/code-craft-sundays-remote-tickets-87050240613) **Second Sunday of the month**
 
 <a name="other"></a>
 ### Other User Groups
@@ -60,7 +60,6 @@ All conferences are free unless otherwise noted.
 
 <a name="other"></a>
 ## Other Compiled Lists
-- [Homeferences](https://github.com/homeferences/list)
 - [Free Online Conferences](https://docs.google.com/spreadsheets/d/1IKXAcDoYnWNpuFaDYkn_aplDZ5fRI0bJNWah0rGFO5E/htmlview) (started by Women in Tech Slack Group)
 
 
