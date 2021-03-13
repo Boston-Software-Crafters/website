@@ -17,13 +17,14 @@ Boston Software Crafters is dedicated to providing a positive experience for eve
 
 Examples of behaviors that contribute to creating a positive environment include:
 
-- Being kind to others
-- Behaving professionally
-- Using welcoming and inclusive language
-- Being respectful of differing viewpoints and experiences
-- Gracefully accepting constructive criticism
-- Focusing on what is best for the community
-- Showing empathy towards other community members
+- Be kind to others
+- Behave professionally
+- Use welcoming and inclusive language
+- Respect differing viewpoints and experiences
+- Gracefully accept constructive criticism
+- Focus on what is best for the community
+- Show empathy towards other community members
+
 
 Examples of unacceptable behavior by participants include:
 
