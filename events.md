@@ -5,7 +5,7 @@ sidebar_sort_order: 100
 # permalink: events.html
 ---
 ## Table of Contents
-- [Coding Meetupsand User Groups](#coding-meetups) - on-going collaborative projects and project nights
+- [Coding Meetups and User Groups](#coding-meetups) - on-going collaborative projects and project nights
   - [Umbrella Organizations](#umb)  
   - [East Coast Evening Groups](#eastcoast)
   - [European User Groups](#europe)
