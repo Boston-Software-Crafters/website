@@ -9,10 +9,10 @@ sidebar_sort_order: 100
   - [Umbrella Organizations](#umb)  
   - [East Coast Evening Groups](#eastcoast)
   - [European User Groups](#europe)
-  - [Weekend Groups](#weekend)
+  - [Weekend Events and Groups](#weekend)
   - [Other User Groups](#other)
 - [Conferences](#conferences)
-- [Other Compiled Lists](#other)s
+- [Other Compiled Lists](#other)
 
 ### *** See also [volunteering](volunteer.md) ***
 
@@ -48,8 +48,8 @@ projects for non-profits, government agencies, and the general good.
 ## Weekend Events and Groups
 All conferences are free unless otherwise noted.
 - [Coffee Code](https://www.meetup.com/Coffee-Code) **Every Sun 3-6 EDT**
-- [Code Craft Saturdays](https://eventbrite.com/e/code-craft-saturdays-remote-tickets-86994443723) **Second Saturday of the month**
-- [Code Craft Sundays](https://www.eventbrite.com/e/code-craft-sundays-remote-tickets-87050240613) **Second Sunday of the month**
+- [Code Craft Saturdays](https://www.eventbrite.com/e/24-hour-global-day-coderetreat-and-a-bit-more-june-12-tickets-149085728427?) **June 12, Second Saturday of the month**
+- [Code Craft Sundays](https://www.eventbrite.com/e/international-code-craft-sundays-online-june-13-tickets) **June 13, Second Sunday of the month**
 
 <a name="other"></a>
 ### Other User Groups
