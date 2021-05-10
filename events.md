@@ -48,7 +48,7 @@ projects for non-profits, government agencies, and the general good.
 ## Weekend Events and Groups
 All conferences are free unless otherwise noted.
 - [Coffee Code](https://www.meetup.com/Coffee-Code) **Every Sun 3-6 EDT**
-- [Code Craft Saturdays](https://www.eventbrite.com/e/24-hour-global-day-coderetreat-and-a-bit-more-june-12-tickets-149085728427?) **June 12, Second Saturday of the month**
+- [24 Hour Global Code Craft Saturdays](https://www.eventbrite.com/e/24-hour-global-day-coderetreat-and-a-bit-more-june-12-tickets-149085728427?) **June 12, Second Saturday of the month**
 - [Code Craft Sundays](https://www.eventbrite.com/e/international-code-craft-sundays-online-june-13-tickets) **June 13, Second Sunday of the month**
 
 <a name="other"></a>
