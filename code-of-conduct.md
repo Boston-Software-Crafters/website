@@ -64,7 +64,7 @@ If you believe that someone is violating the code of conduct, or have any other 
 
 **Incident reporting**: send email to: <conduct@bostonsoftwarecrafters.com>.
 
-In case of a conflict of interest, you can individually contact any individual on the conduct team listed on the [Conduct and Feedback](conduct-and-feedback.md) page.
+In case of a conflict of interest, you can individually contact any individual on the conduct team listed on the [Contact and Feedback](contact-and-feedback.md) page.
 
 Boston Software Crafters staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of any event. We value your attendance.
 
