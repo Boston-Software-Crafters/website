@@ -24,7 +24,8 @@ See also [volunteering](volunteer.md)
 <a name="umb"></a>
 ### Umbrella Organizations
 - [Code for All](https://www.codeforall.org/members) List of Civic Tech organizations around the world.
-- [Code for America](https://www.codeforamerica.org) Civic Tech organization with over 50 branches across the US that work on applications and civic tech 
+- [Code for America](https://www.codeforamerica.org) Civic Tech organization with over 50 branches across the US that work on applications and civic tech
+    - [Events](https://www.meetup.com/pro/brigade)
 - [Software Crafters](https://softwarecrafters.org)
 
 <a name="eastcoast"></a>
@@ -35,6 +36,7 @@ projects for non-profits, government agencies, and the general good.
 - [Boston Software Crafters](https://www.meetup.com/Boston-Software-Crafters) **second Monday of the month, 5:45-9 EDT**
 - [Code for DC](https://www.meetup.com/code-for-boston) - Volunteer on a real life project for a non-profit.  For coders and non-coders. **every other Wed 7-9 PM EDT*
 - [New York City Python](https://www.meetup.com/nycpython/) **every Wednesday 6-9 PM EDT**
+- [Code for America](https://www.meetup.com/pro/brigade)
 - [Informal Clean Code with Video](https://www.meetup.com/Boston-Clean-Mobile) - every Monday discuss Uncle Bob Video on best practices **every Wednesday 6-9 EDT**
 
 <a name="europe"></a>
