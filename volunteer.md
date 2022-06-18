@@ -10,7 +10,7 @@ sidebar_sort_order: 300
 
 - [agileventures](https://www.agileventures.org): daily online meetings and pairing/mobbing.  One time meetings and opportunities for working on non-profit projects.
 - [Code for Boston](https://www.meetup.com/code-for-boston): Volunteer on a project to deliver an application or other technology to a non-profit.  For coders and non-coders.  Meets every Tuesday.
-    - Part of [Code for America](https://www.codeforamerica.org)
+    - Part of [Code for America](https://www.codeforamerica.org).  Events listed here(https://www.meetup.com/pro/brigade)  
 - Organizations that match eager developers with projects or non-profits
   - COVID19:
     - [Helpful Engineering](https://www.helpfulengineering.org/)
