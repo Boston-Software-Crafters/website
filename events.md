@@ -32,7 +32,7 @@ See also [volunteering](volunteer.md)
 - [Boston Python](https://www.meetup.com/bostonpython) - Come to project nights to get help on a project, help others, or to discuss Python related topics.  Group also hosts presentations.  Meets monthly.  **monthly - schedule varies**
 projects for non-profits, government agencies, and the general good.
 - [Code for Boston](https://www.meetup.com/code-for-boston) - Volunteer on a real life project for a non-profit.  For coders and non-coders. **every Tuesday* 6-9 PM EDT*
-- [Boston Software Crafters](https://www.meetup.com/Boston-Software-Crafters) **second Monday of the month, 5:30-9 EDT**
+- [Boston Software Crafters](https://www.meetup.com/Boston-Software-Crafters) **second Monday of the month, 5:45-9 EDT**
 - [Code for DC](https://www.meetup.com/code-for-boston) - Volunteer on a real life project for a non-profit.  For coders and non-coders. **every other Wed 7-9 PM EDT*
 - [New York City Python](https://www.meetup.com/nycpython/) **every Wednesday 6-9 PM EDT**
 - [Informal Clean Code with Video](https://www.meetup.com/Boston-Clean-Mobile) - every Monday discuss Uncle Bob Video on best practices **every Wednesday 6-9 EDT**
@@ -48,7 +48,7 @@ projects for non-profits, government agencies, and the general good.
 ## Weekend Events and Groups
 All conferences are free unless otherwise noted.
 - [Coffee Code](https://www.meetup.com/Coffee-Code) **Every Sun 3-6 EDT**
-- [24 Hour Global Code Craft Saturdays](https://www.eventbrite.com/e/24-hour-global-day-coderetreat-and-a-bit-more-june-12-tickets-149085728427?) **June 12, Second Saturday of the month**
+- [24 Hour Global Code Craft Saturdays]([https://www.eventbrite.com/e/24-hour-global-day-coderetreat-and-a-bit-more-june-12-tickets-149085728427?)](https://www.eventbrite.com/o/code-craft-saturdays-and-sundays-15457506392#events) **Second Saturday of the month**
 - [Code Craft Sundays](https://www.eventbrite.com/e/international-code-craft-sundays-online-june-13-tickets) **June 13, Second Sunday of the month**
 
 <a name="other"></a>
