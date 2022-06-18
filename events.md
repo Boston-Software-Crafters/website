@@ -47,10 +47,11 @@ projects for non-profits, government agencies, and the general good.
 - [Mob Programming on Open Source Software](https://www.meetup.com/Mob-Programming-on-Open-Source-Software/)
 
 <a name="weekend"></a>
-## Weekend Events and Groups
+## Misc: Weekend Events, Groups, and Other Events
 All conferences are free unless otherwise noted.
 - [Coffee Code](https://www.meetup.com/Coffee-Code) **Every Sun 3-6 EDT**
 - [Code Craft Saturdays and Sundays](https://www.eventbrite.com/o/code-craft-saturdays-and-sundays-15457506392#events) **Second Saturday of the month**
+- [Code Retreat](https://coderetreat.org)
 
 ### Other User Groups
 - [Code Buddies](https://codebuddies.org) - CodeBuddies is a very active global community of people who help each other become better at software development through conversations on Slack, peer-to-peer organized study groups, virtual hangouts, and member organized technical sessions.
