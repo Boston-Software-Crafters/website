@@ -49,8 +49,7 @@ projects for non-profits, government agencies, and the general good.
 All conferences are free unless otherwise noted.
 - [Coffee Code](https://www.meetup.com/Coffee-Code) **Every Sun 3-6 EDT**
 - [Code Craft Saturdays and Sundays]([https://www.eventbrite.com/e/24-hour-global-day-coderetreat-and-a-bit-more-june-12-tickets-149085728427?)](https://www.eventbrite.com/o/code-craft-saturdays-and-sundays-15457506392#events) **Second Saturday of the month**
-- 
-<a name="other"></a>
+
 ### Other User Groups
 - [Code Buddies](https://codebuddies.org) - CodeBuddies is a very active global community of people who help each other become better at software development through conversations on Slack, peer-to-peer organized study groups, virtual hangouts, and member organized technical sessions.
 - [Technical Skills Share Group](https://www.meetup.com/Technical-Skills-Share-Group/)  For technical professionals in transition.  Help each other by working on projects, sharing the skills they have, and learning new ones.  For coders and non-coders.  Main group meets Wed during the day.  Subgroups meet every day.  Video conference option available. **every Wednesday during the day**
