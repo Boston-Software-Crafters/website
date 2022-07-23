@@ -9,6 +9,8 @@ sidebar_sort_order: 200
 - [Meetup Prep and Environment Setup](#meetup-prep)
 - [Coding Challenges](#challenges)
 - [Katas](#katas)
+- [Refactoring Katas](#refactoring-katas)
+- Coaching Resources(#coaching-resources)
 - [Podcasts](#podcasts)
 - [Books](#books)
   - [Coding Dojos](#dojo-books)
@@ -48,6 +50,30 @@ sidebar_sort_order: 200
 - [Evil Tester](https://www.eviltester.com/2018/08/compendium-test-apps-1-2.html)
 - [Parking Calculator](http://www.shino.de/parkcalc/)
 - [Restful Booker](RESTful API)](https://restful-booker.herokuapp.com/)
+
+## Refactoring Katas
+<a name="refactoring-katas>"></a>
+- AmazingRefactoring (https://github.com/f-lombardo/AmazingRefactoring), or Trivia.
+- A playground for refactoring based on http://xp123.com/articles/refactoring-challenge-the-amazing-maze/
+- https://github.com/martinsson/Refactoring-Kata-Lift-Pass-Pricing  You have a mix of SQL queries and business logic.
+A refactoring kata where you'll practice disentangling business logic from frameworks and SQL
+- https://github.com/christianhujer/expensereport is simpler, although it's a good candidate to tackle with newcomers. It's kinda more realistic than Gilded Rose because you have to deal with Stdout and write tests around that
+- https://github.com/emilybache/Encryptor-Refactoring-Kata might fit the bill. 
+- https://github.com/emilybache/ValidateAndAddProduct-Refactoring-Kata 
+- https://github.com/emilybache/Roadload-Refactoring-Kata/blob/main/csharp/Roadload.csa kata for practicing both testing with Combination Approvals and 'Split Phase' refactoring a kata for practicing both testing with Combination Approvals and 'Split Phase' refactoring
+- https://github.com/emilyche/Roadload-Refactoring-Kata/blob/main/csharp/Roadload.cs
+- https://github.com/sleepyfox/elections The song kata (it has no tests and writes to stdout, with both C# and Python ports:
+- https://github.com/sleepyfox/code-dojo-39 (edited)
+- https://github.com/ericlemerdy/katastrophic/blob/master/java/src/main/java/name/lemerdy/eric/Inv3st_Plan.java
+short, ugly.
+- https://github.com/codecop/TriviaOO-with-Approvals-Kata 
+- https://github.com/codecop/golfed-game-of-tron
+- https://github.com/codecop/TriviaOO-with-Approvals-Kata
+- A Swiss Army Knife of sorts for our Enterprise students. It starts as a single page or endpoint that has some basic rules extremely poorly written. It needs serious refactoring before the new stories that are provided can be implemented. Also used for BDD training and to evaluate user stories.
+https://github.com/gSchool/refactor-and-extend-exercise 
+
+## Coaching Resources
+https://sammancoaching.org/
 
 <a name="podcasts"></a>
 ## Podcasts
@@ -94,45 +120,10 @@ sidebar_sort_order: 200
 
 See [Katas](#katas), [More Recommendations for Exploratory Testing](exploratory-testing.md) or [Lisi Hocke's website](https://www.lisihocke.com/) for more resources
 
-#### Refactoring
-AmazingRefactoring (https://github.com/f-lombardo/AmazingRefactoring), or Trivia.
 
-A playground for refactoring based on http://xp123.com/articles/refactoring-challenge-the-amazing-maze/
-
-https://github.com/martinsson/Refactoring-Kata-Lift-Pass-Pricing  You have a mix of SQL queries and business logic.
-A refactoring kata where you'll practice disentangling business logic from frameworks and SQL
-
-https://github.com/christianhujer/expensereport is simpler, although it's a good candidate to tackle with newcomers. It's kinda more realistic than Gilded Rose because you have to deal with Stdout and write tests around that
-
-Rémy Sanlaville 2 months ago
-You have the elections kata in Java, Kotlin or Javascript. You a have a test file that you can easily remove.
-PS: you can see a way to refactor it in this video
-:thumbsup_all:
-
-Shares teaching materials on https://sammancoaching.org - emilybache
-:thumbsup_all:
-
- https://github.com/emilybache/Encryptor-Refactoring-Kata might fit the bill. 
- Also https://github.com/emilybache/ValidateAndAddProduct-Refactoring-Kata and https://github.com/emilybache/Roadload-Refactoring-Kata/blob/main/csharp/Roadload.csa kata for practicing both testing with Combination Approvals and 'Split Phase' refactoring
-a kata for practicing both testing with Combination Approvals and 'Split Phase' refactoring
-
-https://github.com/emilybache/Roadload-Refactoring-Kata/blob/main/csharp/Roadload.cs
+Shares teaching materials on - emilybache
 
 
-https://github.com/sleepyfox/elections (
 
-The song kata (Katrina Owen I think) is also a good one, it has no tests and writes to stdout, with both C# and Python ports: https://github.com/sleepyfox/code-dojo-39 (edited)
-
-:thumbsup_all:
-
-: https://github.com/ericlemerdy/katastrophic/blob/master/java/src/main/java/name/lemerdy/eric/Inv3st_Plan.java
-short, ugly.
-https://github.com/codecop/TriviaOO-with-Approvals-Kata and a small golved Tron https://github.com/codecop/golfed-game-of-tron
-https://github.com/codecop/TriviaOO-with-Approvals-Kata
-This is the JavaScript game of Tron in 219 bytes prepared as Refactoring Kata in different languages.
-
-
-This is one I created as a Swiss Army Knife of sorts for our Enterprise students. It starts as a single page or endpoint that has some basic rules extremely poorly written. It needs serious refactoring before the new stories that are provided can be implemented. We also use it for BDD training and to evaluate user stories.
-https://github.com/gSchool/refactor-and-extend-exercise (edited)
 
 
