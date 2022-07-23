@@ -10,7 +10,7 @@ sidebar_sort_order: 200
 - [Coding Challenges](#challenges)
 - [Katas](#katas)
 - [Refactoring Katas](#refactoring-katas)
-- Coaching Resources(#coaching-resources)
+- [Coaching Resources](#coaching-resources)
 - [Podcasts](#podcasts)
 - [Books](#books)
   - [Coding Dojos](#dojo-books)
